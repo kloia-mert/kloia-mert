@@ -24,7 +24,7 @@ Currently, I'm working on some ML- DL projects, and I am trying to be Freelance 
         - 📕 Deep Learning</br>
         - 📊 Data Analysis</br>
         - ⚒️ Statistics</br>
-        
+       
 # Interests
 [![](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python)]()
 [![](https://img.shields.io/badge/pandas-cD1?style=for-the-badge&logo=pandas)]()
