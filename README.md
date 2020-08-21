@@ -16,7 +16,7 @@
 Currently, I'm working on some ML- DL projects, and I am trying to be Freelance Developer.
 
 
-- 👨🏽‍💻 I’m currently learning new fields and improving my exist skills on [Udemy](https://www.udemy.com), [Udacity](https://www.udacity.com) , [Datacamp](https://www.datacamp.com/), [Coursera](https://www.coursera.org/).</br>
+- 👨🏽‍💻 I’m currently learning new fields and improving my exist skills on [Udemy](https://www.udemy.com), [Cognitive-Class](https://cognitiveclass.ai/) , [Datacamp](https://www.datacamp.com/), [Coursera](https://www.coursera.org/).</br>
 
 - Here are my fields I'm learning in these days:</br>
         - ✏️ Data Science</br>
