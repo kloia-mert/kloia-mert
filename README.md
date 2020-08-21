@@ -9,11 +9,12 @@
     
 </p>
 <h3 align="left">Hi 👋, I'm Mert BOZKIR</h1>
-<h4 align="left">A passionate Python developer from Turkey</h3>
+<h4 align="left">A passionate Data Scientist Candidate from Turkey</h3>
 
 ## 📖  About Me
-🌝 Hi, I'm I'm Mert Bozkır, a Python Developer 💻 from Turkey. Currently, I'm working on some ML- DL projects.
-I am trying to be Freelance Developer.
+⚡ Hi, I'm Mert Bozkır, a Python Developer 💻. I am studying at the Bursa Technical University.</br>
+Currently, I'm working on some ML- DL projects, and I am trying to be Freelance Developer.
+
 
 - 👨🏽‍💻 I’m currently learning new fields and improving my exist skills on [Udemy](https://www.udemy.com), [Udacity](https://www.udacity.com) , [Datacamp](https://www.datacamp.com/), [Coursera](https://www.coursera.org/).</br>
 
@@ -23,6 +24,13 @@ I am trying to be Freelance Developer.
         - 📕 Deep Learning</br>
         - 📊 Data Analysis</br>
         - ⚒️ Statistics</br>
+        
+# Interests
+[![](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python)]()
+[![](https://img.shields.io/badge/pandas-cD1?style=for-the-badge&logo=pandas)]()
+[![](https://img.shields.io/badge/Tensorflow-cD1?style=for-the-badge&logo=tensorflow)]()
+[![](https://img.shields.io/badge/keras-cD1?style=for-the-badge&logo=keras)]()
+[![](https://img.shields.io/badge/scikit-learn-cD1?style=for-the-badge&logo=scikit-learn)]()
         
 
 ## 📬 Get in touch
