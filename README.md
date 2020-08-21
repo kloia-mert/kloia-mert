@@ -16,7 +16,7 @@
 Currently, I'm working on some ML- DL projects, and I am trying to be Freelance Developer.
 
 
-- 👨🏽‍💻 I’m currently learning new fields and improving my exist skills on [Udemy](https://www.udemy.com), [Cognitive-Class](https://cognitiveclass.ai/) , [Datacamp](https://www.datacamp.com/), [Coursera](https://www.coursera.org/).</br>
+- 👨🏽‍💻 I’m currently learning new fields and improving my exist skills on [Kaggle](https://www.kaggle.com/), [Cognitive-Class](https://cognitiveclass.ai/) , [Datacamp](https://www.datacamp.com/), [Coursera](https://www.coursera.org/).</br>
 
 - Here are my fields I'm learning in these days:</br>
         - ✏️ Data Science</br>
@@ -35,9 +35,9 @@ Currently, I'm working on some ML- DL projects, and I am trying to be Freelance 
 
 ## 📬 Get in touch
 <p align="left">
-  <a href="https://www.linkedin.com/in/mertbozkir/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mert-bozkir-linkedIn/" height="30" width="30"></a>&nbsp;&nbsp;
+    <a href="mailto:mert.bozkirr@gmail.com"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/mertbozkir/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mert-bozkir-linkedIn/" height="30" width="30"></a>&nbsp;&nbsp;
   <a href="https://www.kaggle.com/mertbozkr "><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="mert-bozkir-kaggle" height="30" width="30"></a>&nbsp;&nbsp;
-  <a href="mailto:mert.bozkirr@gmail.com"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg"></a>&nbsp;&nbsp;
   <a href="https://medium.com/@mert.bozkirr"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg"></a>&nbsp;&nbsp;
 </p>
 
