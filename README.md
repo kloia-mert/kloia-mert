@@ -7,9 +7,12 @@
     <img src="https://img.shields.io/github/contributors/mertbozkir/mertbozkir" />   
     <img src="https://badge.fury.io/gh/mertbozkir%2Fmertbozkir.svg" />  
     
-    [![trophy](https://github-profile-trophy.vercel.app/?username=mertbozkir)](https://github.com/ryo-ma/github-profile-trophy)
 
 </p>
+
+    [![trophy](https://github-profile-trophy.vercel.app/?username=mertbozkir)](https://github.com/ryo-ma/github-profile-trophy)
+    
+    
 <h3 align="left">Hi 👋, I'm Mert BOZKIR</h1>
 <h4 align="left">A passionate Data Scientist Candidate from Turkey</h3>
 
