@@ -1,21 +1,11 @@
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=mertbozkir" alt="mertbozkir" />
-    <img src="https://img.shields.io/github/stars/mertbozkir/mertbozkir?style=social" />
-    <img src="https://img.shields.io/github/watchers/mertbozkir/mertbozkir?style=social" />
-    <img src="https://img.shields.io/github/size/mertbozkir/mertbozkir/README.md" />
-    <img src="https://img.shields.io/github/last-commit/mertbozkir/mertbozkir" />
-    <img src="https://img.shields.io/github/contributors/mertbozkir/mertbozkir" />   
-    <img src="https://badge.fury.io/gh/mertbozkir%2Fmertbozkir.svg" />  
-    
 
-</p>
 
     
-    
+   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mertbozkir" alt="mertbozkir" /></a> </p>
 <h3 align="left">Hi 👋, I'm Mert BOZKIR</h1>
 <h4 align="left">A passionate Data Scientist Candidate from Turkey</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mertbozkir" alt="mertbozkir" /></a> </p>
+
 
 
 ## 📖  About Me
