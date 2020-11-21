@@ -15,7 +15,8 @@
 <h3 align="left">Hi 👋, I'm Mert BOZKIR</h1>
 <h4 align="left">A passionate Data Scientist Candidate from Turkey</h3>
 
-    [![trophy](https://github-profile-trophy.vercel.app/?username=mertbozkir)](https://github.com/ryo-ma/github-profile-trophy)]
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mertbozkir" alt="mertbozkir" /></a> </p>
+
 
 ## 📖  About Me
 ⚡ Hi, I'm Mert Bozkır, a Python Developer 💻. I am studying at the Bursa Technical University.</br>
