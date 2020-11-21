@@ -43,6 +43,8 @@ Currently, I'm working on some ML- DL projects, and I am trying to be Freelance 
 
 ## &#x1f4c8; My GitHub Stats
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=mertbozkir)](https://github.com/ryo-ma/github-profile-trophy)
+
 <a href="https://github.com/mertbozkir">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertbozkir&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
