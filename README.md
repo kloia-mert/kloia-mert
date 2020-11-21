@@ -7,6 +7,8 @@
     <img src="https://img.shields.io/github/contributors/mertbozkir/mertbozkir" />   
     <img src="https://badge.fury.io/gh/mertbozkir%2Fmertbozkir.svg" />  
     
+    [![trophy](https://github-profile-trophy.vercel.app/?username=mertbozkir)](https://github.com/ryo-ma/github-profile-trophy)
+
 </p>
 <h3 align="left">Hi 👋, I'm Mert BOZKIR</h1>
 <h4 align="left">A passionate Data Scientist Candidate from Turkey</h3>
@@ -43,7 +45,6 @@ Currently, I'm working on some ML- DL projects, and I am trying to be Freelance 
 
 ## &#x1f4c8; My GitHub Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mertbozkir)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href="https://github.com/mertbozkir">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertbozkir&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
