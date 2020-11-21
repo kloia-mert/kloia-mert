@@ -5,9 +5,6 @@
 <h3 align="left">Hi 👋, I'm Mert BOZKIR</h1>
 <h4 align="left">A passionate Data Scientist Candidate from Turkey</h3>
 
-
-
-
 ## 📖  About Me
 ⚡ Hi, I'm Mert Bozkır, a Python Developer 💻. I am studying at the Bursa Technical University.</br>
 Currently, I'm working on some ML- DL projects, and I am trying to be Freelance Developer.
