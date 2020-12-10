@@ -3,20 +3,20 @@
     
    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mertbozkir" alt="mertbozkir" /></a> </p>
 <h3 align="left">Hi 👋, I'm Mert BOZKIR</h1>
-<h4 align="left">A passionate Data Scientist Candidate from Turkey</h3>
+<h4 align="left">A passionate Future Data Scientist from Turkey</h3>
 
 ## 📖  About Me
 ⚡ Hi, I'm Mert Bozkır, a Python Developer 💻. I am studying at the Bursa Technical University.</br>
-Currently, I'm working on some ML- DL projects, and I am trying to be Freelance Developer.
+Currently, I'm working on some ML- DL projects, and I am trying to be Good Data Scientist.
 
 
-- 👨🏽‍💻 I’m currently learning new fields and improving my exist skills on [Kaggle](https://www.kaggle.com/), [Cognitive-Class](https://cognitiveclass.ai/) , [Datacamp](https://www.datacamp.com/), [Coursera](https://www.coursera.org/).</br>
+- 👨🏽‍💻 I’m currently learning new fields and improving my exist skills on [Kaggle](https://www.kaggle.com/), [Datacamp](https://www.datacamp.com/), [Coursera](https://www.coursera.org/).</br>
 
-- Here are my fields I'm learning in these days:</br>
+- Here are my fields I'm learning or I will deeply learn these days:</br>
         - ✏️ Data Science</br>
         - 🤖 Machine Learning</br>
         - 📕 Deep Learning</br>
-        - 📊 Data Analysis</br>
+        - 📊 Quantum Machine Learning</br>
         - ⚒️ Statistics</br>
        
 # Interests
