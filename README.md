@@ -1,16 +1,17 @@
+<h1 align="center">Hi there <img width="32" src="https://raw.githubusercontent.com/fatiiates/fatiiates/main/wave.gif"/>, I'm Mert Bozkır</h1>
+<h3 align="center">A Passionate Future Data Scientist from Turkey</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mertbozkir&label=Profile%20views&color=0e75b6&style=flat" alt="mertbozkir" /> </p>
 
-    
-   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mertbozkir" alt="mertbozkir" /></a> </p>
-<h3 align="left">Hi 👋, I'm Mert BOZKIR</h1>
-<h4 align="left">A passionate Future Data Scientist from Turkey</h3>
+[![trophy](https://github-profile-trophy.vercel.app/?username=mertbozkir&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## 📖  About Me
 ⚡ Hi, I'm Mert Bozkır, a Python Developer 💻. I am studying at the Bursa Technical University.</br>
 Currently, I'm working on some ML- DL projects, and I am trying to be Good Data Scientist.
 
 
-- 👨🏽‍💻 I’m currently learning new fields and improving my exist skills on [Kaggle](https://www.kaggle.com/), [Datacamp](https://www.datacamp.com/), [Coursera](https://www.coursera.org/).</br>
+- I’m currently learning new fields and improving my exist skills on [Kaggle](https://www.kaggle.com/), [Datacamp](https://www.datacamp.com/), [Coursera](https://www.coursera.org/).</br>
 
 - Here are my fields I'm learning or I will deeply learn these days:</br>
         - ✏️ Data Science</br>
