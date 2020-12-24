@@ -1,9 +1,16 @@
+
+
+
+
 <h1 align="center">Hi there <img width="32" src="https://raw.githubusercontent.com/fatiiates/fatiiates/main/wave.gif"/>, I'm Mert Bozkır</h1>
 <h3 align="center">A Passionate Future Data Scientist from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mertbozkir&label=Profile%20views&color=0e75b6&style=flat" alt="mertbozkir" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mertbozkir&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
 
 
 ## 📖  About Me
@@ -13,14 +20,16 @@ Currently, I'm working on some ML- DL projects, and I am trying to be Good Data 
 
 - I’m currently learning new fields and improving my exist skills on [Kaggle](https://www.kaggle.com/), [Datacamp](https://www.datacamp.com/), [Coursera](https://www.coursera.org/).</br>
 
-- Here are my fields I'm learning or I will deeply learn these days:</br>
+- Here are my fields I'm learning or I will deeply learn future days:</br>
         - ✏️ Data Science</br>
         - 🤖 Machine Learning</br>
         - 📕 Deep Learning</br>
         - 📊 Quantum Machine Learning</br>
         - ⚒️ Statistics</br>
+ 
+ 
        
-# Interests
+## Skills:
 [![](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python)]()
 [![](https://img.shields.io/badge/pandas-cD1?style=for-the-badge&logo=pandas)]()
 [![](https://img.shields.io/badge/Tensorflow-cD1?style=for-the-badge&logo=tensorflow)]()
@@ -28,7 +37,7 @@ Currently, I'm working on some ML- DL projects, and I am trying to be Good Data 
 [![](https://img.shields.io/badge/scikit-learn-cD1?style=for-the-badge&logo=scikit-learn)]()
         
 
-## 📬 Get in touch
+## 📬 How to reach me:
 <p align="left">
     <a href="mailto:mert.bozkirr@gmail.com"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg"></a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/mertbozkir/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mert-bozkir-linkedIn/" height="30" width="30"></a>&nbsp;&nbsp;
@@ -36,7 +45,7 @@ Currently, I'm working on some ML- DL projects, and I am trying to be Good Data 
   <a href="https://medium.com/@mert.bozkirr"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg"></a>&nbsp;&nbsp;
 </p>
 
-## &#x1f4c8; My GitHub Stats
+## &#x1f4c8; Statistics and Languages:
 
 
 <a href="https://github.com/mertbozkir">
