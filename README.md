@@ -26,8 +26,10 @@ Also I am Student Ambassador at [Postnick](https://www.postnick.com/#/) Company.
 
 - [Pokemon Project]() - **Continue** ✨
 - [Tübitak 2209-B]() - **Secret** ✨
+- [Advertisement Classification Project]() - **Wait for Publishing Article** ✨
 - [Titanic Project](https://github.com/mertbozkir/Daniel-Bourke-Tutorial-Titanic_Project) 
 - [Veri Bilimi Yol Haritası ve Kaynak Havuzu](https://github.com/mertbozkir/Veri-Bilimi_Yol-Haritasi__ve__Kaynak-Havuzu) 
+
  
  
 ## 📃 Latest Blog Posts
