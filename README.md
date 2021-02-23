@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mertbozkir&label=Profile%20views&color=0e75b6&style=flat" alt="mertbozkir" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mertbozkir&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 
@@ -15,19 +15,28 @@
 
 ## 📖  About Me
 ⚡ Hi, I'm Mert Bozkır, a Python Developer 💻. I am studying at the Bursa Technical University.</br>
-Currently, I'm working on some ML- DL projects, and I am trying to be Good Data Scientist.
+Currently, I'm working on some ML - DL projects, and I am trying to be Good Data Scientist. I am writer at the [Data Myths and Facts](https://medium.com/data-myths-and-facts).
 
 
-- I’m currently learning new fields and improving my exist skills on [Kaggle](https://www.kaggle.com/), [Datacamp](https://www.datacamp.com/), [Coursera](https://www.coursera.org/).</br>
+- I’m currently learning new fields and improving my exist skills on MOOC platforms [Kaggle](https://www.kaggle.com/), [Datacamp](https://www.datacamp.com/), [Coursera](https://www.coursera.org/) and [edX](https://www.edx.org/)</br>
 
-- Here are my fields I'm learning or I will deeply learn future days:</br>
-        - ✏️ Data Science</br>
-        - 🤖 Machine Learning</br>
-        - 📕 Deep Learning</br>
-        - 📊 Quantum Machine Learning</br>
-        - ⚒️ Statistics</br>
+## ⭐ Some of my projects
+
+- [Pokemon Project]() - **Continue** ✨
+- [Tübitak 2209-B]() - **Secret** ✨
+- [Titanic Project](https://github.com/mertbozkir/Daniel-Bourke-Tutorial-Titanic_Project) 
+- [Veri Bilimi Yol Haritası ve Kaynak Havuzu](https://github.com/mertbozkir/Veri-Bilimi_Yol-Haritasi__ve__Kaynak-Havuzu) 
  
  
+## 📃 Latest Blog Posts
+
+
+I have just start to write . To be Continued :)
+- [Bulut Bilişim ve Yapay Zeka Servisleri](https://medium.com/data-myths-and-facts/bulut-bili%C5%9Fim-ve-yapay-zeka-servisleri-458d04ef9c75)
+- [Yapay Sinir Ağları](https://teknikafa.com/yapay-sinir-aglari/)
+
+
+
        
 ## Skills:
 [![](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python)]()
@@ -38,19 +47,18 @@ Currently, I'm working on some ML- DL projects, and I am trying to be Good Data 
         
 
 ## 📬 How to reach me:
-<p align="left">
-    <a href="mailto:mert.bozkirr@gmail.com"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg"></a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/mertbozkir/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mert-bozkir-linkedIn/" height="30" width="30"></a>&nbsp;&nbsp;
-  <a href="https://www.kaggle.com/mertbozkr "><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="mert-bozkir-kaggle" height="30" width="30"></a>&nbsp;&nbsp;
-  <a href="https://medium.com/@mert.bozkirr"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg"></a>&nbsp;&nbsp;
-</p>
-
-## &#x1f4c8; Statistics and Languages:
 
 
-<a href="https://github.com/mertbozkir">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertbozkir&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mertbozkir/)
+[![](https://img.shields.io/badge/Medium-%2312100E.svg?&style=flat&logo=medium&logoColor=white)](https://medium.com/@mert.bozkirr)
+[![](https://img.shields.io/badge/Kaggle-%2312100E.svg?&style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/mertbozkr)
+[![](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/mert_bozkirr)
+[![](https://img.shields.io/badge/Email-mert.bozkirr%40gmail.com-blue)](mailto:mert.bozkirr@gmail.com)
+
+
+## &#x1f4c8; Statistics:
+
+
 
 <a href="https://github.com/mertbozkir">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mertbozkir&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="mertbozkir's GitHub Stats" />
