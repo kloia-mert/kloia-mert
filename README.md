@@ -15,7 +15,7 @@ I am enthusiast for these areas: Generative Adversarial Networks, Natural Langua
 
 - I’m currently learning new fields and improving my exist skills on MOOC platforms [Kaggle](https://www.kaggle.com/), [Datacamp](https://www.datacamp.com/), [Coursera](https://www.coursera.org/) and [edX](https://www.edx.org/)</br>
 
-You can reach me everywhere: 
+ 
 [![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mertbozkir/)
 [![](https://img.shields.io/badge/Medium-%2312100E.svg?&style=flat&logo=medium&logoColor=white)](https://medium.com/@mert.bozkirr)
 [![](https://img.shields.io/badge/Kaggle-%2312100E.svg?&style=flat?labelColor=blue?color=blue&logo=kaggle&logoColor=blue)](https://www.kaggle.com/mertbozkr)
@@ -40,15 +40,6 @@ I have just start to write . To be Continued :)
 - [Bulut Bilişim ve Yapay Zeka Servisleri](https://medium.com/data-myths-and-facts/bulut-bili%C5%9Fim-ve-yapay-zeka-servisleri-458d04ef9c75)
 - [Yapay Sinir Ağları](https://teknikafa.com/yapay-sinir-aglari/)
 
-
-
-       
-## Skills:
-[![](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python)]()
-[![](https://img.shields.io/badge/pandas-cD1?style=for-the-badge&logo=pandas)]()
-[![](https://img.shields.io/badge/Tensorflow-cD1?style=for-the-badge&logo=tensorflow)]()
-[![](https://img.shields.io/badge/keras-cD1?style=for-the-badge&logo=keras)]()
-[![](https://img.shields.io/badge/scikit-learn-cD1?style=for-the-badge&logo=scikit-learn)]()
         
 ## &#x1f4c8; Statistics:
 
