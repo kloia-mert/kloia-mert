@@ -9,7 +9,7 @@
 ⚡ Hi, I'm Mert Bozkır, a Python Developer 💻. I am studying at the Bursa Technical University.</br>
 Currently, I'm working on some ML - DL projects, and I am trying to be Good Data Scientist.
 I am writer at the [Data Myths and Facts](https://medium.com/data-myths-and-facts). 
-Also I am Student Ambassador at [Postnick](https://www.postnick.com/#/) Company.
+Also I am Student Ambassador at [Postnick](https://www.postnick.com/#/).
 I am enthusiast for these areas: Generative Adversarial Networks, Natural Language Processing, Ensemble Learning methods
 
 
@@ -36,9 +36,9 @@ I am enthusiast for these areas: Generative Adversarial Networks, Natural Langua
 ## 📃 Latest Blog Posts
 
 
-I have just start to write . To be Continued :)
-- [Bulut Bilişim ve Yapay Zeka Servisleri](https://medium.com/data-myths-and-facts/bulut-bili%C5%9Fim-ve-yapay-zeka-servisleri-458d04ef9c75)
-- [Yapay Sinir Ağları](https://teknikafa.com/yapay-sinir-aglari/)
+I have just start to write. I will try translate to English, To be Continued :)
+- [Cloud Computing and Artificial Intelligence Services](https://medium.com/data-myths-and-facts/bulut-bili%C5%9Fim-ve-yapay-zeka-servisleri-458d04ef9c75) -TR
+- [Artificial Neural Networks](https://teknikafa.com/yapay-sinir-aglari/) -TR
 
         
 ## &#x1f4c8; Statistics:
