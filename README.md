@@ -15,7 +15,9 @@
 
 ## 📖  About Me
 ⚡ Hi, I'm Mert Bozkır, a Python Developer 💻. I am studying at the Bursa Technical University.</br>
-Currently, I'm working on some ML - DL projects, and I am trying to be Good Data Scientist. I am writer at the [Data Myths and Facts](https://medium.com/data-myths-and-facts).
+Currently, I'm working on some ML - DL projects, and I am trying to be Good Data Scientist.
+I am writer at the [Data Myths and Facts](https://medium.com/data-myths-and-facts). 
+Also I am Student Ambassador at [Postnick](https://www.postnick.com/#/) Company.
 
 
 - I’m currently learning new fields and improving my exist skills on MOOC platforms [Kaggle](https://www.kaggle.com/), [Datacamp](https://www.datacamp.com/), [Coursera](https://www.coursera.org/) and [edX](https://www.edx.org/)</br>
