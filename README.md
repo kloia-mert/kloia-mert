@@ -36,7 +36,7 @@ I am enthusiast for these areas: Generative Adversarial Networks, Natural Langua
 ## 📃 Latest Blog Posts
 
 
-I have just start to write. I will try translate to English, To be Continued :)
+I have just start to write. I will try to translate English language these blogs, To be Continued :)
 - [Cloud Computing and Artificial Intelligence Services](https://medium.com/data-myths-and-facts/bulut-bili%C5%9Fim-ve-yapay-zeka-servisleri-458d04ef9c75) -TR
 - [Artificial Neural Networks](https://teknikafa.com/yapay-sinir-aglari/) -TR
 
