@@ -25,7 +25,7 @@ I am enthusiast for these areas: Generative Adversarial Networks, Natural Langua
  
 ## ⭐ Some of my projects
 
-- [Pokemon Project]() - **Continue** ✨
+- [Pokemon Project]() - **Surprise** ✨
 - [Tübitak 2209-B]() - **Secret** ✨
 - [Advertisement Classification Project]() - **Wait for Publishing Article** ✨
 - [Titanic Project](https://github.com/mertbozkir/Daniel-Bourke-Tutorial-Titanic_Project) 
