@@ -1,7 +1,3 @@
-
-
-
-
 <h1 align="center">Hi there <img width="32" src="https://raw.githubusercontent.com/fatiiates/fatiiates/main/wave.gif"/>, I'm Mert Bozkır</h1>
 <h3 align="center">A Passionate Future Data Scientist from Turkey</h3>
 
@@ -26,6 +22,7 @@ I am enthusiast for these areas: Generative Adversarial Networks, Natural Langua
 ## ⭐ Some of my projects
 
 - [Pokemon Project]() - **Surprise** ✨
+- [Sentiment Analysis Project]() - **Coming** ✨
 - [Tübitak 2209-B]() - **Secret** ✨
 - [Advertisement Classification Project]() - **Wait for Publishing Article** ✨
 - [Titanic Project](https://github.com/mertbozkir/Daniel-Bourke-Tutorial-Titanic_Project) 
@@ -39,6 +36,7 @@ I am enthusiast for these areas: Generative Adversarial Networks, Natural Langua
 I have just start to write. I will try to translate English language these blogs, To be Continued :)
 - [Cloud Computing and Artificial Intelligence Services](https://medium.com/data-myths-and-facts/bulut-bili%C5%9Fim-ve-yapay-zeka-servisleri-458d04ef9c75) -TR
 - [Artificial Neural Networks](https://teknikafa.com/yapay-sinir-aglari/) -TR
+- [Artificial Neural Networks]() -EN   **Coming** ✨
 
         
 ## &#x1f4c8; Statistics:
