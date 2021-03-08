@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Future Data Scientist from Turkey</h3>
 
 ## 📖  About Me
-⚡ Hi, I'm Mert Bozkır, a Python Developer 💻. I am studying at the Bursa Technical University.</br>
+⚡ Hi, I'm Mert Bozkır, a Future Data Scientist 💻. I am Freshman student at the Bursa Technical University.</br>
 Currently, I'm working on some ML - DL projects, and I am trying to be Good Data Scientist.
 I am writer at the [Data Myths and Facts](https://medium.com/data-myths-and-facts). 
 Also I am Student Ambassador at [Postnick](https://www.postnick.com/#/).
@@ -24,7 +24,7 @@ I am enthusiast for these areas: Generative Adversarial Networks, Natural Langua
 - [Pokemon Project]() - **Surprise** ✨
 - [Sentiment Analysis Project]() - **Coming** ✨
 - [MIT Deep Learning Lab 1: Music Generation]()   **Coming**
-- [Tübitak 2209-B]() - **Secret** ✨
+- [Tubitak 2209-B](https://www.tubitak.gov.tr/tr/burslar/lisans/burs-programlari/icerik-2209-b-sanayiye-yonelik-lisans-arastirma-projeleri-destegi-programi) - **Secret** ✨
 - [Advertisement Classification Project]() - **Wait for Publishing Article** ✨
 ) 
 
