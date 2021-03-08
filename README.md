@@ -2,15 +2,15 @@
 <h3 align="center">A Passionate Future Data Scientist from Turkey</h3>
 
 ## 📖  About Me
-⚡ Hi, I'm Mert Bozkır, a Future Data Scientist 💻. I am Freshman student at the Bursa Technical University.</br>
-Currently, I'm working on some ML - DL projects, and I am trying to be Good Data Scientist.
-I am writer at the [Data Myths and Facts](https://medium.com/data-myths-and-facts). 
-Also I am Student Ambassador at [Postnick](https://www.postnick.com/#/).
-I am enthusiast for these areas: Generative Adversarial Networks, Natural Language Processing, Ensemble Learning methods
+⚡ Hi, I'm Mert Bozkır, a Future Data Scientist 💻. I am a Freshman student at the Bursa Technical University.</br>
+Currently, I'm working on some ML - DL projects, and I am trying to be a Good Data Scientist.
+I am a writer at the [Data Myths and Facts](https://medium.com/data-myths-and-facts). 
+Also I am  Student Ambassador at [Postnick](https://www.postnick.com/#/).
+I am an enthusiast for these areas: Generative Adversarial Networks, Natural Language Processing, Ensemble Learning methods
 
 
-- I’m currently learning new fields and improving my exist skills on MOOC platforms [Kaggle](https://www.kaggle.com/), [Datacamp](https://www.datacamp.com/), [Coursera](https://www.coursera.org/) and [edX](https://www.edx.org/)</br>
-
+- I’m currently learning new fields and improving my existing skills on MOOC platforms [Kaggle](https://www.kaggle.com/), [Datacamp](https://www.datacamp.com/), [Coursera](https://www.coursera.org/), and [edX](https://www.edx.org/)</br>
+ I am learning Data Science by [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science). I love IBM's company and courses as a learner. 
  
 [![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mertbozkir/)
 [![](https://img.shields.io/badge/Medium-%2312100E.svg?&style=flat&logo=medium&logoColor=white)](https://medium.com/@mert.bozkirr)
@@ -33,7 +33,7 @@ I am enthusiast for these areas: Generative Adversarial Networks, Natural Langua
 ## 📃 Latest Blog Posts
 
 
-I have just start to write. I will try to translate English language these blogs, To be Continued :)
+I have just started to write. I will try to translate English language these blogs, To be Continued :)
 - [Cloud Computing and Artificial Intelligence Services](https://medium.com/data-myths-and-facts/bulut-bili%C5%9Fim-ve-yapay-zeka-servisleri-458d04ef9c75) -TR
 - [Artificial Neural Networks](https://teknikafa.com/yapay-sinir-aglari/) -TR
 - [Artificial Neural Networks]() -EN   **Coming** ✨
