@@ -10,7 +10,7 @@ I am an enthusiast for these areas: Generative Adversarial Networks, Natural Lan
 
 
 - I’m currently learning new fields and improving my existing skills on MOOC platforms [Kaggle](https://www.kaggle.com/), [Datacamp](https://www.datacamp.com/), [Coursera](https://www.coursera.org/), and [edX](https://www.edx.org/)</br>
- I am learning Data Science by [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science). I love IBM's company and courses as a learner. 
+
  
 [![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mertbozkir/)
 [![](https://img.shields.io/badge/Medium-%2312100E.svg?&style=flat&logo=medium&logoColor=white)](https://medium.com/@mert.bozkirr)
@@ -23,7 +23,7 @@ I am an enthusiast for these areas: Generative Adversarial Networks, Natural Lan
 
 - [Pokemon Project]() - **Surprise** ✨
 - [Sentiment Analysis Project]() - **Coming** ✨
-- [MIT Deep Learning Lab 1: Music Generation](https://github.com/mertbozkir/Music_Generation_RNNs)  🎃
+- [MIT Deep Learning Lab 1: Music Generation](https://github.com/mertbozkir/Music_Generation_RNNs)  🎶
 - [Tubitak 2209-B](https://www.tubitak.gov.tr/tr/burslar/lisans/burs-programlari/icerik-2209-b-sanayiye-yonelik-lisans-arastirma-projeleri-destegi-programi) - **Secret** ✨
 - [Advertisement Classification Project]() - **Wait for Publishing Article** ✨
 ) 
