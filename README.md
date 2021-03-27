@@ -22,7 +22,7 @@ I am an enthusiast for these areas: Generative Adversarial Networks, Natural Lan
 ## ⭐ Some of my projects
 
 - [Pokemon Project]() - **Surprise** ✨
-- [Sentiment Analysis Project]() - **Coming** ✨
+- [Binaryclock]() - **Coming** ✨
 - [MIT Deep Learning Lab 1: Music Generation](https://github.com/mertbozkir/Music_Generation_RNNs)  🎶
 - [Tubitak 2209-B](https://www.tubitak.gov.tr/tr/burslar/lisans/burs-programlari/icerik-2209-b-sanayiye-yonelik-lisans-arastirma-projeleri-destegi-programi) - **Secret** ✨
 - [Advertisement Classification Project]() - **Wait for Publishing Article** ✨
