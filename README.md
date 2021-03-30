@@ -35,8 +35,8 @@ I am an enthusiast for these areas: Generative Adversarial Networks, Natural Lan
 
 I have just started to write. I will try to translate English language these blogs, To be Continued :)
 - [Cloud Computing and Artificial Intelligence Services](https://medium.com/data-myths-and-facts/bulut-bili%C5%9Fim-ve-yapay-zeka-servisleri-458d04ef9c75) -TR
-- [Artificial Neural Networks](https://teknikafa.com/yapay-sinir-aglari/) -TR
-- [Artificial Neural Networks]() -EN   **Coming** ✨
+- [Yapay Sinir Ağları](https://teknikafa.com/yapay-sinir-aglari/) -TR
+- [Overview of Neural Networks](https://medium.com/data-myths-and-facts/overview-of-neural-networks-84382d068d78) -EN   **Coming** ✨
 
         
 ## &#x1f4c8; Statistics:
