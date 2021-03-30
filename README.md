@@ -4,7 +4,7 @@
 ## 📖  About Me
 ⚡ Hi, I'm Mert Bozkır, a Future ML Engineer 💻. I am a Freshman student at the Bursa Technical University.</br>
 Currently, I'm working on some ML - DL projects.
-I am a writer at the [Data Myths and Facts](https://medium.com/data-myths-and-facts). 
+I am a writer at the [Databulls](https://medium.com/data-myths-and-facts). 
 Also I am  Student Ambassador at [Postnick](https://www.postnick.com/#/).
 I am an enthusiast for these areas: Generative Adversarial Networks, Natural Language Processing, Ensemble Learning methods
 
