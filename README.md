@@ -5,7 +5,7 @@
 ⚡ Hi, I'm Mert Bozkır, a Machine Learning Engineer Intern at [B2Metric](https://b2metric.com/) 💻. I am a Freshman student at the Bursa Technical University.</br>
 Currently, I'm working on some ML - DL projects.
 
-Also I am a writer at the [Databulls](https://medium.com/data-myths-and-facts). 
+⚡ Also I am a writer at the [Databulls](https://medium.com/data-myths-and-facts). 
 I am a Student Ambassador at [Postnick](https://www.postnick.com/#/).
 I am an enthusiast for these areas: Generative Adversarial Networks, Natural Language Processing, Ensemble Learning methods
 
@@ -23,8 +23,8 @@ I am an enthusiast for these areas: Generative Adversarial Networks, Natural Lan
 ## ⭐ Some of my projects
 
 - [MIT Deep Learning Lab 2: De-biasing Facial Recognition Systems]() - **Coming** 👦
-- [MIT Deep Learning Lab 1: Music Generation](https://github.com/mertbozkir/Music_Generation_RNNs)  🎶
-- [Tubitak 2209-B](https://www.tubitak.gov.tr/tr/burslar/lisans/burs-programlari/icerik-2209-b-sanayiye-yonelik-lisans-arastirma-projeleri-destegi-programi) - **Working** ✨
+- [MIT Deep Learning Lab 1: Music Generation with RNNs](https://github.com/mertbozkir/Music_Generation_RNNs)  🎶
+- [Generating Fabric Pattern with Deep Learning](https://www.tubitak.gov.tr/tr/burslar/lisans/burs-programlari/icerik-2209-b-sanayiye-yonelik-lisans-arastirma-projeleri-destegi-programi) - **Working** ✨
 - [Advertisement Classification Project]() - **Wait for Publishing Article** 💻
 
 
