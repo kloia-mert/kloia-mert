@@ -2,10 +2,11 @@
 <h3 align="center">A Passionate Future Machine Learning Engineer from Turkey</h3>
 
 ## 📖  About Me
-⚡ Hi, I'm Mert Bozkır, a Future ML Engineer 💻. I am a Freshman student at the Bursa Technical University.</br>
+⚡ Hi, I'm Mert Bozkır, a Machine Learning Engineer Intern at [B2Metric](https://b2metric.com/) 💻. I am a Freshman student at the Bursa Technical University.</br>
 Currently, I'm working on some ML - DL projects.
-I am a writer at the [Databulls](https://medium.com/data-myths-and-facts). 
-Also I am  Student Ambassador at [Postnick](https://www.postnick.com/#/).
+
+Also I am a writer at the [Databulls](https://medium.com/data-myths-and-facts). 
+I am a Student Ambassador at [Postnick](https://www.postnick.com/#/).
 I am an enthusiast for these areas: Generative Adversarial Networks, Natural Language Processing, Ensemble Learning methods
 
 
@@ -32,9 +33,7 @@ I am an enthusiast for these areas: Generative Adversarial Networks, Natural Lan
 ## 📃 Latest Blog Posts
 
 
-I have just started to write. I will try to translate English language these blogs, To be Continued :)
 - [Cloud Computing and Artificial Intelligence Services](https://medium.com/data-myths-and-facts/bulut-bili%C5%9Fim-ve-yapay-zeka-servisleri-458d04ef9c75) -TR
-- [Yapay Sinir Ağları](https://teknikafa.com/yapay-sinir-aglari/) -TR
 - [Overview of Neural Networks](https://medium.com/data-myths-and-facts/overview-of-neural-networks-84382d068d78) -EN 
 
         
