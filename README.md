@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Future Machine Learning Engineer from Turkey</h3>
 
 ## 📖  About Me
-⚡ Hi, I'm Mert Bozkır, a Machine Learning Engineer Intern at [B2Metric](https://b2metric.com/) 💻. I am a Freshman student at the Bursa Technical University.</br>
+⚡ Hi, I'm [Mert Bozkır](https://www.linkedin.com/in/mertbozkir/), a Machine Learning Engineer Intern at [B2Metric](https://b2metric.com/) 💻. I am a Freshman student at the Bursa Technical University.</br>
 Currently, I'm working on some ML - DL projects.
 
 ⚡ Also I am a writer at the [Databulls](https://medium.com/data-myths-and-facts). 
@@ -32,13 +32,15 @@ I am an enthusiast for these areas: Generative Adversarial Networks, Natural Lan
  
 ## 📃 Latest Blog Posts
 
-
-- [Cloud Computing and Artificial Intelligence Services](https://medium.com/data-myths-and-facts/bulut-bili%C5%9Fim-ve-yapay-zeka-servisleri-458d04ef9c75) -TR
-- [Overview of Neural Networks](https://medium.com/data-myths-and-facts/overview-of-neural-networks-84382d068d78) -EN 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mert.bozkirr/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mert.bozkirr/0" width="645"  height="110"  alt="Recent Article 0"> 
+  
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mert.bozkirr/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mert.bozkirr/1" width="670"  height="110" alt="Recent Article 0"> 
+ 
 
         
-## &#x1f4c8; Statistics:
+<details>
+<summary>📈 My GitHub Stats</summary>
 
-<a href="https://github.com/mertbozkir">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mertbozkir&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="mertbozkir's GitHub Stats" />
-</a>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mertbozkir&show_icons=true&theme=gotham" alt="mertbozkir" />
+
+</details>
