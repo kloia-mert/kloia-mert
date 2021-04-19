@@ -38,10 +38,11 @@ I am an enthusiast for these areas: Generative Adversarial Networks, Natural Lan
 + [Bulut Bilişim ve Yapay Zeka Servisleri](https://medium.com/databulls/bulut-bili%C5%9Fim-ve-yapay-zeka-servisleri-458d04ef9c75)  [TR]
  
 
-        
-<details>
-<summary>📈 My GitHub Stats</summary>
+<br/>  
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mertbozkir&show_icons=true&theme=gotham" alt="mertbozkir" />
-
-</details>
+ [![Mert's github activity graph](https://activity-graph.herokuapp.com/graph?username=mertbozkir&theme=xcode)](https://git.io/mertbozkir)
+<p align="center">
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mertbozkir&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mertbozkir&theme=tokyonight" />
+</p>
