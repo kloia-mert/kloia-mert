@@ -33,8 +33,9 @@ I am an enthusiast for these areas: Generative Adversarial Networks, Natural Lan
  
 ## 📃 Latest Blog Posts
 
-[Overview of Neural Networks](https://medium.com/databulls/overview-of-neural-networks-84382d068d78)   [EN]
-[Bulut Bilişim ve Yapay Zeka Servisleri](https://medium.com/databulls/bulut-bili%C5%9Fim-ve-yapay-zeka-servisleri-458d04ef9c75)  [TR]
++ [Overview of Neural Networks](https://medium.com/databulls/overview-of-neural-networks-84382d068d78)   [EN]
+
++ [Bulut Bilişim ve Yapay Zeka Servisleri](https://medium.com/databulls/bulut-bili%C5%9Fim-ve-yapay-zeka-servisleri-458d04ef9c75)  [TR]
  
 
         
