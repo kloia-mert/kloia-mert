@@ -33,9 +33,9 @@ I am an enthusiast for these areas: Generative Adversarial Networks, Natural Lan
  
 ## 📃 Latest Blog Posts
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mert.bozkirr/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mert.bozkirr/0" width="645"  height="110"  alt="Recent Article 0"> 
-  
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mert.bozkirr/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mert.bozkirr/1" width="670"  height="110" alt="Recent Article 0"> 
+[Overview of Neural Networks](https://medium.com/databulls/overview-of-neural-networks-84382d068d78)   [EN]
+
+[Bulut Bilişim ve Yapay Zeka Servisleri](https://medium.com/databulls/bulut-bili%C5%9Fim-ve-yapay-zeka-servisleri-458d04ef9c75)  [TR]
  
 
         
