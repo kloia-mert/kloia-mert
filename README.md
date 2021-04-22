@@ -10,7 +10,7 @@ I am a Student Ambassador at [Postnick](https://www.postnick.com/#/).
 I am an enthusiast for these areas: Generative Adversarial Networks, Natural Language Processing, Ensemble Learning methods
 
 
-- I’m currently learning new fields and improving my existing skills on MOOC platforms [Kaggle](https://www.kaggle.com/), [Datacamp](https://www.datacamp.com/), [Coursera](https://www.coursera.org/), and [edX](https://www.edx.org/)</br>
+- I’m currently learning new fields and improving my existing skills on MOOC platforms [Kaggle](https://www.kaggle.com/), [Coursera](https://www.coursera.org/), and [edX](https://www.edx.org/)</br>
 
  
 [![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mertbozkir/)
