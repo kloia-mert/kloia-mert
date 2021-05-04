@@ -1,4 +1,5 @@
-<h1 align="center">Hi there <img width="32" src="https://raw.githubusercontent.com/fatiiates/fatiiates/main/wave.gif"/>, I'm Mert Bozkır</h1>
+<p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+
 <h3 align="center">A Passionate Future Machine Learning Engineer from Turkey</h3>
 
 ## 📖  About Me
