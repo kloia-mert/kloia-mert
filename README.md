@@ -8,7 +8,7 @@ Currently, I'm working on some ML - DL projects.
 
 ⚡ Also I am a writer at the [Databulls](https://medium.com/data-myths-and-facts). 
 I am a Student Ambassador at [Postnick](https://www.postnick.com/#/).
-I am an enthusiast for these areas: Generative Adversarial Networks, Natural Language Processing, Ensemble Learning methods
+I am an enthusiast for these areas: Generative Adversarial Networks, Ensemble Learning methods
 
 
 - I’m currently learning new fields and improving my existing skills on MOOC platforms [Kaggle](https://www.kaggle.com/), [Coursera](https://www.coursera.org/), and [edX](https://www.edx.org/)</br>
@@ -20,6 +20,8 @@ I am an enthusiast for these areas: Generative Adversarial Networks, Natural Lan
 [![](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/mert_bozkirr)
 [![](https://img.shields.io/badge/HuggingFace-ff0?style=plastic?)](https://discuss.huggingface.co/u/mertbozkir/summary)
 [![](https://img.shields.io/badge/Email-mert.bozkirr%40gmail.com-blue)](mailto:mert.bozkirr@gmail.com) 
+
+ <img align="right" src="https://media.giphy.com/media/LoBSGLlkRVWnd6SdxN/giphy.gif" width="160">
  
 ## ⭐ Some of my projects
 
