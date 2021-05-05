@@ -17,7 +17,7 @@ I love to contribute communities. Being active in the communities, wandering mee
 
  <img align="right" src="https://media.giphy.com/media/LoBSGLlkRVWnd6SdxN/giphy.gif" width="160">
  
- <details><summary>⭐ My projects</summary> 
+ ## ⭐ My projects
 	
 * [Easy, Useful, and Fast Collaboration Clock](https://github.com/mertbozkir/CollaboClock) - 🛰  **Future**
 * [Riga Face GAN]() - **Coming** 👦
@@ -26,7 +26,6 @@ I love to contribute communities. Being active in the communities, wandering mee
 * [Generating Fabric Pattern with Deep Learning](https://www.tubitak.gov.tr/tr/burslar/lisans/burs-programlari/icerik-2209-b-sanayiye-yonelik-lisans-arastirma-projeleri-destegi-programi) - **Working** ✨
 * [Advertisement Classification Project]() - **Wait for Publishing Article** 💻
 
-</details>
 
 <br/>  
 
