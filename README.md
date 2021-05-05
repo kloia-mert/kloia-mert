@@ -1,4 +1,4 @@
-<p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+<!--- <img src="./Mert_Bozkir.svg"></img>  --->
 
 <h3 align="center">A Passionate Future Machine Learning Engineer from Turkey</h3>
 
@@ -6,20 +6,18 @@
 ⚡ Hi, I'm [Mert Bozkır](https://www.linkedin.com/in/mertbozkir/), a Machine Learning Engineer Intern at [B2Metric](https://b2metric.com/) 💻. I am a Freshman student at the Bursa Technical University.</br>
 Currently, I'm working on some ML - DL projects.
 
-⚡ Also I am a writer at the [Databulls](https://medium.com/data-myths-and-facts). 
-I am a Student Ambassador at [Postnick](https://www.postnick.com/#/).
-I am an enthusiast for these areas: Generative Adversarial Networks, Ensemble Learning methods
-
-
-- I’m currently learning new fields and improving my existing skills on MOOC platforms [Kaggle](https://www.kaggle.com/), [Coursera](https://www.coursera.org/), and [edX](https://www.edx.org/)</br>
-
- 
-[![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mertbozkir/)
-[![](https://img.shields.io/badge/Medium-%2312100E.svg?&style=flat&logo=medium&logoColor=white)](https://medium.com/@mert.bozkirr)
-[![](https://img.shields.io/badge/Kaggle-%2312100E.svg?&style=flat?labelColor=blue?color=blue&logo=kaggle&logoColor=blue)](https://www.kaggle.com/mertbozkr)
+[![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)]()
+[![](https://img.shields.io/badge/Medium-%2312100E.svg?&style=flat&logo=medium&logoColor=white)]()
+[![](https://img.shields.io/badge/Kaggle-%2312100E.svg?&style=flat?labelColor=blue?color=blue&logo=kaggle&logoColor=blue)]()
 [![](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/mert_bozkirr)
 [![](https://img.shields.io/badge/HuggingFace-ff0?style=plastic?)](https://discuss.huggingface.co/u/mertbozkir/summary)
 [![](https://img.shields.io/badge/Email-mert.bozkirr%40gmail.com-blue)](mailto:mert.bozkirr@gmail.com) 
+
+
+[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mert.bozkirr)
+[![](https://img.shields.io/badge/Kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mertbozkr)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mertbozkir/)
+[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kubrakurtk)
 
  <img align="right" src="https://media.giphy.com/media/LoBSGLlkRVWnd6SdxN/giphy.gif" width="160">
  
