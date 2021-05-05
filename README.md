@@ -1,9 +1,11 @@
-<!--- <img src="./Mert_Bozkir.svg"></img>  --->
+<img src="./Mert_Bozkir.svg"></img>  
 
-<h3 align="center">A Passionate Future Machine Learning Engineer from Turkey</h3>
+<h2 align="center">A Passionate Future Machine Learning Engineer from Turkey</h2>
 
 ## 📖  About Me
-⚡ Hi, I'm [Mert Bozkır](https://www.linkedin.com/in/mertbozkir/), a Machine Learning Engineer Intern [@B2Metric](https://b2metric.com/) 💻. I am an Undergraduate Deep Learning Researcher [@ Tübitak](https://www.tubitak.gov.tr/), I am a Computer Science Freshman student [@Bursa Technical University](https://btu.edu.tr/).
+⚡ Hi, I'm [Mert Bozkır](https://www.linkedin.com/in/mertbozkir/), a Machine Learning Engineer Intern [@B2Metric](https://b2metric.com/) 💻. 
+
+I am an Undergraduate Deep Learning Researcher [@ Tübitak](https://www.tubitak.gov.tr/), I am a Computer Science Freshman student [@Bursa Technical University](https://btu.edu.tr/).
 
 I am a MOOC person who fall in love with online courses.
 I love to contribute communities. Being active in the communities, wandering meetups makes me social.
