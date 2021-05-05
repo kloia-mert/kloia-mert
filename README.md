@@ -1,4 +1,4 @@
-<img src="./Mert_Bozkir.svg"></img>  
+<img src="./Mert.svg"></img>  
 
 <h2 align="center">A Passionate Future Machine Learning Engineer from Turkey</h2>
 
