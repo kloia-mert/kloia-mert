@@ -19,7 +19,7 @@ I love to contribute communities. Being active in the communities, wandering mee
  
  ## ⭐ My projects
 	
-* [Easy, Useful, and Fast Collaboration Clock](https://github.com/mertbozkir/CollaboClock) - 🛰  **Future**
+* [Easy, Useful, and Fast Collaboration Clock](https://github.com/mertbozkir/CollaboClock) - 🛰 
 * [Riga Face GAN]() - **Coming** 👦
 * [PresentX - GPT-3 Based Latex Code Presentation Maker](https://github.com/mertbozkir/PresentX)  🪐
 * [MIT Deep Learning Lab 1: Music Generation with RNNs](https://github.com/mertbozkir/Music_Generation_RNNs)  🎶
