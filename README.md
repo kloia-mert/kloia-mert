@@ -24,7 +24,6 @@ I love to contribute communities. Being active in the communities, wandering mee
 * [PresentX - GPT-3 Based Latex Code Presentation Maker](https://github.com/mertbozkir/PresentX)  🪐
 * [MIT Deep Learning Lab 1: Music Generation with RNNs](https://github.com/mertbozkir/Music_Generation_RNNs)  🎶
 * [Generating Fabric Pattern with Deep Learning](https://www.tubitak.gov.tr/tr/burslar/lisans/burs-programlari/icerik-2209-b-sanayiye-yonelik-lisans-arastirma-projeleri-destegi-programi) - **Working** ✨
-* [Advertisement Classification Project]() - **Wait for Publishing Article** 💻
 
 
 <br/>  
