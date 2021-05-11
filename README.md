@@ -18,9 +18,9 @@ I love to contribute communities. Being active in the communities, wandering mee
  <img align="right" src="https://media.giphy.com/media/LoBSGLlkRVWnd6SdxN/giphy.gif" width="160">
  
  ## ⭐ My projects
-	
-* [Easy, Useful, and Fast Collaboration Clock](https://github.com/mertbozkir/CollaboClock) - 🛰 
+* [MIT Deep Learning Lab 2: Debiasing Facial Detection Systems]() 🌵
 * [Riga Face GAN]() - **Coming** 👦
+* [Easy, Useful, and Fast Collaboration Clock](https://github.com/mertbozkir/CollaboClock) - 🛰 
 * [PresentX - GPT-3 Based Latex Code Presentation Maker](https://github.com/mertbozkir/PresentX)  🪐
 * [MIT Deep Learning Lab 1: Music Generation with RNNs](https://github.com/mertbozkir/Music_Generation_RNNs)  🎶
 * [Generating Fabric Pattern with Deep Learning](https://www.tubitak.gov.tr/tr/burslar/lisans/burs-programlari/icerik-2209-b-sanayiye-yonelik-lisans-arastirma-projeleri-destegi-programi) - **Working** ✨
