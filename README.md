@@ -3,9 +3,9 @@
 <h2 align="center">A Passionate Future Machine Learning Engineer from Turkey</h2>
 
 ## 📖  About Me
-⚡ **Hi, I'm [Mert Bozkır](https://www.linkedin.com/in/mertbozkir/), a Machine Learning Engineer Intern [@B2Metric](https://b2metric.com/) 💻.I am a Computer Science Freshman student [@Bursa Technical University](https://btu.edu.tr/), Also I am an Undergraduate Deep Learning Researcher [@ Tübitak](https://www.tubitak.gov.tr/)**
+⚡ **Hi, I'm [Mert Bozkır](https://www.linkedin.com/in/mertbozkir/), a Machine Learning Engineer Intern [@B2Metric](https://b2metric.com/) 💻. I'm a Computer Science Freshman student [@Bursa Technical University](https://btu.edu.tr/), Also I am an Undergraduate Deep Learning Researcher [@ Tübitak](https://www.tubitak.gov.tr/)**
 
-I am a MOOC person who fall in love with online courses.
+I am a MOOC person who falls in love with online courses.
 I love to contribute communities. Being active in the communities, wandering meetups makes me social.
 **My ultimate purpose is being Self-Taught Machine Learning Engineer.**
 
@@ -18,7 +18,7 @@ I love to contribute communities. Being active in the communities, wandering mee
  <img align="right" src="https://media.giphy.com/media/LoBSGLlkRVWnd6SdxN/giphy.gif" width="160">
  
  ## ⭐ My projects
-* [MIT Deep Learning Lab 2: Debiasing Facial Detection Systems]() 🌵
+* [Wine Quality Prediction with Continuous Machine Learning](https://github.com/mertbozkir/Wine-Quality-withCML) 🌵
 * [Easy, Useful, and Fast Collaboration Clock](https://github.com/mertbozkir/CollaboClock) - 🛰 
 * [PresentX - GPT-3 Based Latex Code Presentation Maker](https://github.com/mertbozkir/PresentX)  🪐
 * [MIT Deep Learning Lab 1: Music Generation with RNNs](https://github.com/mertbozkir/Music_Generation_RNNs)  🎶
