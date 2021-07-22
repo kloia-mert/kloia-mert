@@ -9,7 +9,11 @@ I am a MOOC person who falls in love with online courses.
 I love to contribute communities. Being active in the communities, wandering meetups makes me social.
 **My ultimate purpose is being Self-Taught Machine Learning Engineer.**
 
-
+<div style="position: relative;
+float: right;">
+     <img src="https://spotify-github-profile.vercel.app/api/view?uid=cukn8ypiqjpsoznxy5op6rx4d&cover_image=true&theme=novatorem">
+ </div>
+ 
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mert.bozkirr)
 [![](https://img.shields.io/badge/Kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mertbozkr)
 
@@ -17,9 +21,11 @@ I love to contribute communities. Being active in the communities, wandering mee
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mertbozkirr/)
 
 
+ 
+
  <!--<img align="right" src="https://media.giphy.com/media/LoBSGLlkRVWnd6SdxN/giphy.gif" width="160">-->
  
- <div align="right"><img src="https://spotify-github-profile.vercel.app/api/view?uid=cukn8ypiqjpsoznxy5op6rx4d&cover_image=true&theme=novatorem" /></div>
+
  
  ## ⭐ My projects
 * [Wine Quality Prediction with Continuous Machine Learning](https://github.com/mertbozkir/Wine-Quality-withCML) 🌵
