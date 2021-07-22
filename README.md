@@ -22,7 +22,6 @@ float: right;">
  
  ## ⭐ My projects
 * [Wine Quality Prediction with Continuous Machine Learning](https://github.com/mertbozkir/Wine-Quality-withCML) 🌵
-* [Easy, Useful, and Fast Collaboration Clock](https://github.com/mertbozkir/CollaboClock) - 🛰 
 * [PresentX - GPT-3 Based Latex Code Presentation Maker](https://github.com/mertbozkir/PresentX)  🪐
 * [MIT Deep Learning Lab 1: Music Generation with RNNs](https://github.com/mertbozkir/Music_Generation_RNNs)  🎶
 * [Generating Fabric Pattern with Deep Learning](https://www.tubitak.gov.tr/tr/burslar/lisans/burs-programlari/icerik-2209-b-sanayiye-yonelik-lisans-arastirma-projeleri-destegi-programi) - **Working** ✨
