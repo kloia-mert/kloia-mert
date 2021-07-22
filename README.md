@@ -13,17 +13,10 @@ I love to contribute communities. Being active in the communities, wandering mee
 float: right;">
      <img src="https://spotify-github-profile.vercel.app/api/view?uid=cukn8ypiqjpsoznxy5op6rx4d&cover_image=true&theme=novatorem">
  </div>
- 
-[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mert.bozkirr)
-[![](https://img.shields.io/badge/Kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mertbozkr)
-
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mertbozkir/)
-[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mertbozkirr/)
-
 
  
 
- <!--<img align="right" src="https://media.giphy.com/media/LoBSGLlkRVWnd6SdxN/giphy.gif" width="160">-->
+ <img align="right" src="https://media.giphy.com/media/LoBSGLlkRVWnd6SdxN/giphy.gif" width="160">
  
 
  
@@ -34,7 +27,12 @@ float: right;">
 * [MIT Deep Learning Lab 1: Music Generation with RNNs](https://github.com/mertbozkir/Music_Generation_RNNs)  🎶
 * [Generating Fabric Pattern with Deep Learning](https://www.tubitak.gov.tr/tr/burslar/lisans/burs-programlari/icerik-2209-b-sanayiye-yonelik-lisans-arastirma-projeleri-destegi-programi) - **Working** ✨
 
+## 📬 Reach Me
 
+[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mert.bozkirr)
+[![](https://img.shields.io/badge/Kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mertbozkr)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mertbozkir/)
+[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mertbozkirr/)
 <br/>  
 
  [![Mert's github activity graph](https://activity-graph.herokuapp.com/graph?username=mertbozkir&theme=react-dark)](https://git.io/mertbozkir)
