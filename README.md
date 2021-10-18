@@ -12,7 +12,7 @@
 
  <img align="right" src="https://media.giphy.com/media/LoBSGLlkRVWnd6SdxN/giphy.gif" width="160">
  
-### 📬 Connect with me:
+## 📬 Connect with me:
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCXea7z2u1TsOd8FICU1EhIQ)&nbsp;
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/mertbozkirr)&nbsp;
@@ -26,7 +26,13 @@
 * [MIT Deep Learning Lab 1: Music Generation with RNNs](https://github.com/mertbozkir/Music_Generation_RNNs)  🎶
 * [Generating Fabric Pattern with Deep Learning](https://www.tubitak.gov.tr/tr/burslar/lisans/burs-programlari/icerik-2209-b-sanayiye-yonelik-lisans-arastirma-projeleri-destegi-programi) - **Working** ✨
 
-##  Reach Me
+## ⚡ Recent Activity
+<!--START_SECTION:activity-->
+  
+  
+<!--END_SECTION:activity-->
+
+
 
  [![Mert's github activity graph](https://activity-graph.herokuapp.com/graph?username=mertbozkir&theme=react-dark)](https://git.io/mertbozkir)
 <p align="center">
