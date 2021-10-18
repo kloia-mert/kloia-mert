@@ -6,7 +6,7 @@
 
 - 🔭 I just landed my second internship in Data Engineering field: [Datalobster](https://www.datalobster.io/) ! 
 - 🎯 I’m currently learning NLP and MLOps
-- ⚡I’m contributing to [DVC](https://www.dvc.org) community
+- ⚡I’m contributing to [DVC](https://www.dvc.org) and [DAGsHub]() communities
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 👯 Fun fact: I love to dance and meet new people
 
@@ -20,7 +20,13 @@ float: right;">
 
  <img align="right" src="https://media.giphy.com/media/LoBSGLlkRVWnd6SdxN/giphy.gif" width="160">
  
+### 📬 Connect with me:
 
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCXea7z2u1TsOd8FICU1EhIQ)&nbsp;
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/mertbozkirr)&nbsp;
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mertbozkir/)&nbsp;
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:mert.bozkirr@gmail.com)&nbsp;
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@mert.bozkirr)&nbsp;
  
  ## ⭐ My projects
 * [Wine Quality Prediction with Continuous Machine Learning](https://github.com/mertbozkir/Wine-Quality-withCML) 🌵
@@ -28,13 +34,7 @@ float: right;">
 * [MIT Deep Learning Lab 1: Music Generation with RNNs](https://github.com/mertbozkir/Music_Generation_RNNs)  🎶
 * [Generating Fabric Pattern with Deep Learning](https://www.tubitak.gov.tr/tr/burslar/lisans/burs-programlari/icerik-2209-b-sanayiye-yonelik-lisans-arastirma-projeleri-destegi-programi) - **Working** ✨
 
-## 📬 Reach Me
-
-[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mert.bozkirr)
-[![](https://img.shields.io/badge/Kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mertbozkr)
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mertbozkir/)
-[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mertbozkirr/)
-<br/>  
+##  Reach Me
 
  [![Mert's github activity graph](https://activity-graph.herokuapp.com/graph?username=mertbozkir&theme=react-dark)](https://git.io/mertbozkir)
 <p align="center">
