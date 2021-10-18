@@ -28,8 +28,8 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-  
-  
+1. ❗️ Opened issue [#38](https://github.com/DAGsHub/audio-datasets/issues/38) in [DAGsHub/audio-datasets](https://github.com/DAGsHub/audio-datasets)
+2. ❗️ Opened issue [#37](https://github.com/DAGsHub/audio-datasets/issues/37) in [DAGsHub/audio-datasets](https://github.com/DAGsHub/audio-datasets)
 <!--END_SECTION:activity-->
 
 
