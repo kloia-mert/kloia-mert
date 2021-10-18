@@ -6,17 +6,9 @@
 
 - 🔭 I just landed my second internship in Data Engineering field: [Datalobster](https://www.datalobster.io/) ! 
 - 🎯 I’m currently learning NLP and MLOps
-- ⚡I’m contributing to [DVC](https://www.dvc.org) and [DAGsHub]() communities
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡I’m contributing to [<img width="20px" style="vertical-align: text-top;" src="https://static.iterative.ai/logo/dvc.svg"/>](https://dvc.org) and [<img width="20px" style="vertical-align: text-top;" src="https://avatars.githubusercontent.com/u/57668889?s=200&v=4"/>](https://dagshub.com) communities
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - 👯 Fun fact: I love to dance and meet new people
-
-
-<div style="position: relative;
-float: right;">
-     <img src="https://spotify-github-profile.vercel.app/api/view?uid=cukn8ypiqjpsoznxy5op6rx4d&cover_image=true&theme=novatorem">
- </div>
-
- 
 
  <img align="right" src="https://media.giphy.com/media/LoBSGLlkRVWnd6SdxN/giphy.gif" width="160">
  
