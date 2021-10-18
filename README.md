@@ -2,12 +2,14 @@
 
 <h2 align="center">A Passionate Future Machine Learning Engineer from Turkey</h2>
 
-## 📖  About Me
-⚡ **Hi, I'm [Mert Bozkır](https://www.linkedin.com/in/mertbozkir/), a Data Engineer Intern [@Datalobster](https://www.datalobster.io/) 💻. I'm a Computer Science Freshman student [@Bursa Technical University](https://btu.edu.tr/), Also I am an Undergraduate Deep Learning Researcher [@ Tübitak](https://www.tubitak.gov.tr/)**
+## I'm a Self-Taught, Contributor, Developer and Researcher!!
 
-I am a MOOC person who falls in love with online courses.
-I love to contribute communities. Being active in the communities, wandering meetups makes me social.
-**My ultimate purpose is being Self-Taught Machine Learning Engineer.**
+- 🔭 I just landed my second internship in Data Engineering field: [Datalobster](https://www.datalobster.io/) ! 
+- 🎯 I’m currently learning NLP and MLOps
+- ⚡I’m contributing to [DVC](https://www.dvc.org) community
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- 👯 Fun fact: I love to dance and meet new people
+
 
 <div style="position: relative;
 float: right;">
