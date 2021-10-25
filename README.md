@@ -27,8 +27,8 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/mertbozkir/Kodizim-Github/pull/2) in [mertbozkir/Kodizim-Github](https://github.com/mertbozkir/Kodizim-Github)
-2. 🎉 Merged PR [#1](https://github.com/SabaUrgup/Kodizim-Github/pull/1) in [SabaUrgup/Kodizim-Github](https://github.com/SabaUrgup/Kodizim-Github)
+1. 🎉 Merged PR [#5](https://github.com/mertbozkir/Kodizim-Github/pull/5) in [mertbozkir/Kodizim-Github](https://github.com/mertbozkir/Kodizim-Github)
+2. 🎉 Merged PR [#3](https://github.com/mertbozkir/Kodizim-Github/pull/3) in [mertbozkir/Kodizim-Github](https://github.com/mertbozkir/Kodizim-Github)
 
 
 
