@@ -27,8 +27,8 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/iterative/awesome-iterative-projects/pull/3) in [iterative/awesome-iterative-projects](https://github.com/iterative/awesome-iterative-projects)
-2. ❗️ Opened issue [#38](https://github.com/DAGsHub/audio-datasets/issues/38) in [DAGsHub/audio-datasets](https://github.com/DAGsHub/audio-datasets)
+1. 🎉 Merged PR [#1](https://github.com/mertbozkir/Kodizim-Github/pull/1) in [mertbozkir/Kodizim-Github](https://github.com/mertbozkir/Kodizim-Github)
+2. 💪 Opened PR [#3](https://github.com/iterative/awesome-iterative-projects/pull/3) in [iterative/awesome-iterative-projects](https://github.com/iterative/awesome-iterative-projects)
 
 
 
