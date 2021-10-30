@@ -27,8 +27,8 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/mertbozkir/Kodizim-Github/pull/5) in [mertbozkir/Kodizim-Github](https://github.com/mertbozkir/Kodizim-Github)
-2. 🎉 Merged PR [#3](https://github.com/mertbozkir/Kodizim-Github/pull/3) in [mertbozkir/Kodizim-Github](https://github.com/mertbozkir/Kodizim-Github)
+1. ❗️ Closed issue [#23](https://github.com/DAGsHub/audio-datasets/issues/23) in [DAGsHub/audio-datasets](https://github.com/DAGsHub/audio-datasets)
+2. 🗣 Commented on [#23](https://github.com/DAGsHub/audio-datasets/issues/23) in [DAGsHub/audio-datasets](https://github.com/DAGsHub/audio-datasets)
 
 
 
