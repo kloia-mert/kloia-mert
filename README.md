@@ -4,7 +4,7 @@
 
 ## I'm a Self-Taught, Contributor, Developer and Researcher!!
 
-- 🔭 I just landed my second internship in Data Engineering field: [Datalobster](https://www.datalobster.io/) ! 
+- 🔭 ! 
 - 🎯 I’m currently learning NLP and MLOps
 - ⚡I’m contributing to [<img width="20px" style="vertical-align: text-top;" src="https://static.iterative.ai/logo/dvc.svg"/>](https://dvc.org) and [<img width="20px" style="vertical-align: text-top;" src="https://avatars.githubusercontent.com/u/57668889?s=200&v=4"/>](https://dagshub.com) communities
 - 🥅 2021 Goals: Contribute more to Open Source projects
