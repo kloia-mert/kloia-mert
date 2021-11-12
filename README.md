@@ -28,7 +28,7 @@
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#91](https://github.com/DAGsHub/audio-datasets/issues/91) in [DAGsHub/audio-datasets](https://github.com/DAGsHub/audio-datasets)
-2. 💪 Opened PR [#93](https://github.com/DAGsHub/audio-datasets/pull/93) in [DAGsHub/audio-datasets](https://github.com/DAGsHub/audio-datasets)
+2. 🗣 Commented on [#91](https://github.com/DAGsHub/audio-datasets/issues/91) in [DAGsHub/audio-datasets](https://github.com/DAGsHub/audio-datasets)
 
 
 
