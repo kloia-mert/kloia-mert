@@ -4,10 +4,10 @@
 
 ## I'm a Self-Taught, Contributor, Developer and Researcher!!
 
-- 🔭 ! 
-- 🎯 I’m currently learning NLP and MLOps
+- 🔭 Self-Learning right now... 
+- 🎯 I’m currently learning NLP, MLOps and [<img width="20px" style="vertical-align: text-top;" src="https://julialang.org/assets/infra/logo.svg"/>](https://julialang.org) language
 - ⚡I’m contributing to [<img width="20px" style="vertical-align: text-top;" src="https://static.iterative.ai/logo/dvc.svg"/>](https://dvc.org) and [<img width="20px" style="vertical-align: text-top;" src="https://avatars.githubusercontent.com/u/57668889?s=200&v=4"/>](https://dagshub.com) communities
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - 👯 Fun fact: I love to dance and meet new people
 
  <img align="right" src="https://media.giphy.com/media/LoBSGLlkRVWnd6SdxN/giphy.gif" width="160">
