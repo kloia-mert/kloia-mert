@@ -26,7 +26,7 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#91](https://github.com/DAGsHub/audio-datasets/issues/91) in [DAGsHub/audio-datasets](https://github.com/DAGsHub/audio-datasets)
+1. 💪 Opened PR [#3](https://github.com/logankilpatrick/10-Julia-Projects-for-Beginners/pull/3) in [logankilpatrick/10-Julia-Projects-for-Beginners](https://github.com/logankilpatrick/10-Julia-Projects-for-Beginners)
 2. 🗣 Commented on [#91](https://github.com/DAGsHub/audio-datasets/issues/91) in [DAGsHub/audio-datasets](https://github.com/DAGsHub/audio-datasets)
 
 
