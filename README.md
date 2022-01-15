@@ -27,8 +27,8 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/CanKeles5/To-Read/issues/1) in [CanKeles5/To-Read](https://github.com/CanKeles5/To-Read)
-2. 💪 Opened PR [#3](https://github.com/logankilpatrick/10-Julia-Projects-for-Beginners/pull/3) in [logankilpatrick/10-Julia-Projects-for-Beginners](https://github.com/logankilpatrick/10-Julia-Projects-for-Beginners)
+1. 💪 Opened PR [#4](https://github.com/logankilpatrick/10-Julia-Projects-for-Beginners/pull/4) in [logankilpatrick/10-Julia-Projects-for-Beginners](https://github.com/logankilpatrick/10-Julia-Projects-for-Beginners)
+2. ❗️ Opened issue [#1](https://github.com/CanKeles5/To-Read/issues/1) in [CanKeles5/To-Read](https://github.com/CanKeles5/To-Read)
 
 
 
