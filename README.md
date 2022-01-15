@@ -42,3 +42,5 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mertbozkir&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mertbozkir&theme=tokyonight" />
 </p>
+
+![](./profile-3d-contrib/profile-green-animate.svg)
