@@ -22,7 +22,10 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@mert.bozkirr)&nbsp;
  
  ## ⭐ My projects
-* [PresentX - GPT-3 Based Latex Code Presentation Maker](https://github.com/mertbozkir/PresentX)  🪐
+ 
+* [MentAI: Mental partner for Social Intelligence, Powered by GPT-3](https://www.linkedin.com/posts/activity-6885184275319164928-VfTS) 🎸 ~working
+* [MIT-Stanford focused Self-Taught-Degree](https://github.com/mertbozkir/self-taught-degree)📌
+* [PresentX: GPT-3 Based Latex Code Presentation Maker](https://github.com/mertbozkir/PresentX)  🪐
 * [MIT Deep Learning Lab 1: Music Generation with RNNs](https://github.com/mertbozkir/Music_Generation_RNNs)  🎶
 
 ## ⚡ Recent Activity
