@@ -5,6 +5,7 @@
 ## I'm a Self-Taught, Contributor, Developer and Researcher!!
 
 - 🔭 Self-Learning right now... 
+- 🧙‍♂️ I'm in [#30dayswithJulia](https://twitter.com/mertbozkirr/status/1472149223365820417?s=20) challenge.
 - 🎯 I’m currently learning NLP, MLOps and [<img width="20px" style="vertical-align: text-top;" src="https://julialang.org/assets/infra/logo.svg"/>](https://julialang.org) language
 - ⚡I’m contributing to [<img width="20px" style="vertical-align: text-top;" src="https://static.iterative.ai/logo/dvc.svg"/>](https://dvc.org) and [<img width="20px" style="vertical-align: text-top;" src="https://avatars.githubusercontent.com/u/57668889?s=200&v=4"/>](https://dagshub.com) communities
 - 🥅 2022 Goals: Contribute more to Open Source projects
