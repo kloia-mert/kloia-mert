@@ -30,10 +30,10 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/logankilpatrick/10-Julia-Projects-for-Beginners/pull/4) in [logankilpatrick/10-Julia-Projects-for-Beginners](https://github.com/logankilpatrick/10-Julia-Projects-for-Beginners)
-2. ❗️ Opened issue [#1](https://github.com/CanKeles5/To-Read/issues/1) in [CanKeles5/To-Read](https://github.com/CanKeles5/To-Read)
-3. 💪 Opened PR [#3](https://github.com/logankilpatrick/10-Julia-Projects-for-Beginners/pull/3) in [logankilpatrick/10-Julia-Projects-for-Beginners](https://github.com/logankilpatrick/10-Julia-Projects-for-Beginners)
-4. 🗣 Commented on [#91](https://github.com/DAGsHub/audio-datasets/issues/91) in [DAGsHub/audio-datasets](https://github.com/DAGsHub/audio-datasets)
+1. 🗣 Commented on [#4](https://github.com/logankilpatrick/10-Julia-Projects-for-Beginners/issues/4) in [logankilpatrick/10-Julia-Projects-for-Beginners](https://github.com/logankilpatrick/10-Julia-Projects-for-Beginners)
+2. 💪 Opened PR [#4](https://github.com/logankilpatrick/10-Julia-Projects-for-Beginners/pull/4) in [logankilpatrick/10-Julia-Projects-for-Beginners](https://github.com/logankilpatrick/10-Julia-Projects-for-Beginners)
+3. ❗️ Opened issue [#1](https://github.com/CanKeles5/To-Read/issues/1) in [CanKeles5/To-Read](https://github.com/CanKeles5/To-Read)
+4. 💪 Opened PR [#3](https://github.com/logankilpatrick/10-Julia-Projects-for-Beginners/pull/3) in [logankilpatrick/10-Julia-Projects-for-Beginners](https://github.com/logankilpatrick/10-Julia-Projects-for-Beginners)
 5. 🗣 Commented on [#91](https://github.com/DAGsHub/audio-datasets/issues/91) in [DAGsHub/audio-datasets](https://github.com/DAGsHub/audio-datasets)
 <!--END_SECTION:activity-->
 
