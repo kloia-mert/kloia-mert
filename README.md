@@ -30,11 +30,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/iterative/course-ds-base/issues/1) in [iterative/course-ds-base](https://github.com/iterative/course-ds-base)
-2. 💪 Opened PR [#34](https://github.com/iterative/course-ds-base/pull/34) in [iterative/course-ds-base](https://github.com/iterative/course-ds-base)
-3. 🗣 Commented on [#4](https://github.com/logankilpatrick/10-Julia-Projects-for-Beginners/issues/4) in [logankilpatrick/10-Julia-Projects-for-Beginners](https://github.com/logankilpatrick/10-Julia-Projects-for-Beginners)
-4. 💪 Opened PR [#4](https://github.com/logankilpatrick/10-Julia-Projects-for-Beginners/pull/4) in [logankilpatrick/10-Julia-Projects-for-Beginners](https://github.com/logankilpatrick/10-Julia-Projects-for-Beginners)
-5. ❗️ Opened issue [#1](https://github.com/CanKeles5/To-Read/issues/1) in [CanKeles5/To-Read](https://github.com/CanKeles5/To-Read)
+1. 🎉 Merged PR [#1](https://github.com/mertbozkir/10-Julia-Projects-for-Beginners/pull/1) in [mertbozkir/10-Julia-Projects-for-Beginners](https://github.com/mertbozkir/10-Julia-Projects-for-Beginners)
+2. 💪 Opened PR [#1](https://github.com/mertbozkir/10-Julia-Projects-for-Beginners/pull/1) in [mertbozkir/10-Julia-Projects-for-Beginners](https://github.com/mertbozkir/10-Julia-Projects-for-Beginners)
+3. 🗣 Commented on [#1](https://github.com/iterative/course-ds-base/issues/1) in [iterative/course-ds-base](https://github.com/iterative/course-ds-base)
+4. 💪 Opened PR [#34](https://github.com/iterative/course-ds-base/pull/34) in [iterative/course-ds-base](https://github.com/iterative/course-ds-base)
+5. 🗣 Commented on [#4](https://github.com/logankilpatrick/10-Julia-Projects-for-Beginners/issues/4) in [logankilpatrick/10-Julia-Projects-for-Beginners](https://github.com/logankilpatrick/10-Julia-Projects-for-Beginners)
 <!--END_SECTION:activity-->
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
