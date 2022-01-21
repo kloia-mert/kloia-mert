@@ -6,10 +6,12 @@
 
 - 🔭 Self-Learning right now... 
 - 🧙‍♂️ I'm in [#30dayswithJulia](https://twitter.com/mertbozkirr/status/1472149223365820417?s=20) challenge.
-- 🎯 I’m currently learning NLP, MLOps and [<img width="20px" style="vertical-align: text-top;" src="https://julialang.org/assets/infra/logo.svg"/>](https://julialang.org) language
-- ⚡I’m contributing to [<img width="20px" style="vertical-align: text-top;" src="https://static.iterative.ai/logo/dvc.svg"/>](https://dvc.org) and [<img width="20px" style="vertical-align: text-top;" src="https://avatars.githubusercontent.com/u/57668889?s=200&v=4"/>](https://dagshub.com) communities
+- 🎯 I’m currently learning NLP, MLOps and Julia language
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 👯 Fun fact: I love to dance and meet new people
+
+[<img width="30px" style="vertical-align: text-top;" src="https://static.iterative.ai/logo/dvc.svg"/>](https://dvc.org)  [<img width="30px" style="vertical-align: text-top;" src="https://pydata.org/global2021/wp-content/uploads/2021/06/cropped-logo.png"/>](https://pydata.org/) [<img width="30px" style="vertical-align: text-top;" src="https://avatars.githubusercontent.com/u/57668889?s=200&v=4"/>](https://dagshub.com) [<img width="30px" style="vertical-align: text-top;" src="https://yt3.ggpht.com/ytc/AKedOLShm1wUoI_b1jodS6XXWy2aWR_nWSszuWb_baKD=s900-c-k-c0x00ffffff-no-rj"/>](https://www.naas.ai/) [<img width="30px" style="vertical-align: text-top;" src="https://avatars.githubusercontent.com/u/743164?s=280&v=4"/>](https://julialang.org) 
+
 
  <img align="right" src="https://media.giphy.com/media/LoBSGLlkRVWnd6SdxN/giphy.gif" width="160">
  
@@ -24,7 +26,7 @@
  ## ⭐ My projects
  
 * [MentAI: Mental partner for Social Intelligence, Powered by GPT-3](https://www.linkedin.com/posts/activity-6885184275319164928-VfTS) 🎸 ~working
-* [MIT-Stanford focused Self-Taught-Degree](https://github.com/mertbozkir/self-taught-degree)📌
+* [MIT-Stanford based Self-Taught-Degree](https://github.com/mertbozkir/self-taught-degree)📌
 * [PresentX: GPT-3 Based Latex Code Presentation Maker](https://github.com/mertbozkir/PresentX)  🪐
 * [MIT Deep Learning Lab 1: Music Generation with RNNs](https://github.com/mertbozkir/Music_Generation_RNNs)  🎶
 
