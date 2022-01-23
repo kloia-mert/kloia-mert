@@ -10,7 +10,7 @@
 - 👯 Fun fact: I love to dance and meet new people
 - 🥅 2022 Goals: Contribute more to Open Source and Communities below;
 
-
+&emsp;&emsp;&emsp;&ensp;
 [<img width="30px" style="vertical-align: text-top;" src="https://static.iterative.ai/logo/dvc.svg"/>](https://dvc.org)  [<img width="30px" style="vertical-align: text-top;" src="https://pydata.org/global2021/wp-content/uploads/2021/06/cropped-logo.png"/>](https://pydata.org/) [<img width="30px" style="vertical-align: text-top;" src="https://avatars.githubusercontent.com/u/57668889?s=200&v=4"/>](https://dagshub.com) [<img width="30px" style="vertical-align: text-top;" src="https://yt3.ggpht.com/ytc/AKedOLShm1wUoI_b1jodS6XXWy2aWR_nWSszuWb_baKD=s900-c-k-c0x00ffffff-no-rj"/>](https://www.naas.ai/) [<img width="30px" style="vertical-align: text-top;" src="https://avatars.githubusercontent.com/u/743164?s=280&v=4"/>](https://julialang.org) 
 
 
