@@ -30,9 +30,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#192](https://github.com/jupyter-naas/drivers/issues/192) in [jupyter-naas/drivers](https://github.com/jupyter-naas/drivers)
 2. 🗣 Commented on [#192](https://github.com/jupyter-naas/drivers/issues/192) in [jupyter-naas/drivers](https://github.com/jupyter-naas/drivers)
-3. 🗣 Commented on [#4](https://github.com/logankilpatrick/10-Julia-Projects-for-Beginners/issues/4) in [logankilpatrick/10-Julia-Projects-for-Beginners](https://github.com/logankilpatrick/10-Julia-Projects-for-Beginners)
-4. 🎉 Merged PR [#1](https://github.com/mertbozkir/10-Julia-Projects-for-Beginners/pull/1) in [mertbozkir/10-Julia-Projects-for-Beginners](https://github.com/mertbozkir/10-Julia-Projects-for-Beginners)
-5. 💪 Opened PR [#1](https://github.com/mertbozkir/10-Julia-Projects-for-Beginners/pull/1) in [mertbozkir/10-Julia-Projects-for-Beginners](https://github.com/mertbozkir/10-Julia-Projects-for-Beginners)
+3. 🗣 Commented on [#192](https://github.com/jupyter-naas/drivers/issues/192) in [jupyter-naas/drivers](https://github.com/jupyter-naas/drivers)
+4. 🗣 Commented on [#4](https://github.com/logankilpatrick/10-Julia-Projects-for-Beginners/issues/4) in [logankilpatrick/10-Julia-Projects-for-Beginners](https://github.com/logankilpatrick/10-Julia-Projects-for-Beginners)
+5. 🎉 Merged PR [#1](https://github.com/mertbozkir/10-Julia-Projects-for-Beginners/pull/1) in [mertbozkir/10-Julia-Projects-for-Beginners](https://github.com/mertbozkir/10-Julia-Projects-for-Beginners)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
