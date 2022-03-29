@@ -29,10 +29,10 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#321](https://github.com/JuliaCon/www.juliacon.org/issues/321) in [JuliaCon/www.juliacon.org](https://github.com/JuliaCon/www.juliacon.org)
-2. ❗️ Opened issue [#321](https://github.com/JuliaCon/www.juliacon.org/issues/321) in [JuliaCon/www.juliacon.org](https://github.com/JuliaCon/www.juliacon.org)
-3. 💪 Opened PR [#320](https://github.com/JuliaCon/www.juliacon.org/pull/320) in [JuliaCon/www.juliacon.org](https://github.com/JuliaCon/www.juliacon.org)
-4. 🗣 Commented on [#192](https://github.com/jupyter-naas/drivers/issues/192) in [jupyter-naas/drivers](https://github.com/jupyter-naas/drivers)
+1. 🗣 Commented on [#41](https://github.com/huggingface/course/issues/41) in [huggingface/course](https://github.com/huggingface/course)
+2. 🗣 Commented on [#321](https://github.com/JuliaCon/www.juliacon.org/issues/321) in [JuliaCon/www.juliacon.org](https://github.com/JuliaCon/www.juliacon.org)
+3. ❗️ Opened issue [#321](https://github.com/JuliaCon/www.juliacon.org/issues/321) in [JuliaCon/www.juliacon.org](https://github.com/JuliaCon/www.juliacon.org)
+4. 💪 Opened PR [#320](https://github.com/JuliaCon/www.juliacon.org/pull/320) in [JuliaCon/www.juliacon.org](https://github.com/JuliaCon/www.juliacon.org)
 5. 🗣 Commented on [#192](https://github.com/jupyter-naas/drivers/issues/192) in [jupyter-naas/drivers](https://github.com/jupyter-naas/drivers)
 <!--END_SECTION:activity-->
 
