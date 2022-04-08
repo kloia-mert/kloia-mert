@@ -29,11 +29,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#128](https://github.com/explosion/spacy-course/issues/128) in [explosion/spacy-course](https://github.com/explosion/spacy-course)
-2. ❗️ Opened issue [#128](https://github.com/explosion/spacy-course/issues/128) in [explosion/spacy-course](https://github.com/explosion/spacy-course)
-3. 🗣 Commented on [#41](https://github.com/huggingface/course/issues/41) in [huggingface/course](https://github.com/huggingface/course)
-4. 🗣 Commented on [#321](https://github.com/JuliaCon/www.juliacon.org/issues/321) in [JuliaCon/www.juliacon.org](https://github.com/JuliaCon/www.juliacon.org)
-5. ❗️ Opened issue [#321](https://github.com/JuliaCon/www.juliacon.org/issues/321) in [JuliaCon/www.juliacon.org](https://github.com/JuliaCon/www.juliacon.org)
+1. 💪 Opened PR [#105](https://github.com/huggingface/course/pull/105) in [huggingface/course](https://github.com/huggingface/course)
+2. 🗣 Commented on [#128](https://github.com/explosion/spacy-course/issues/128) in [explosion/spacy-course](https://github.com/explosion/spacy-course)
+3. ❗️ Opened issue [#128](https://github.com/explosion/spacy-course/issues/128) in [explosion/spacy-course](https://github.com/explosion/spacy-course)
+4. 🗣 Commented on [#41](https://github.com/huggingface/course/issues/41) in [huggingface/course](https://github.com/huggingface/course)
+5. 🗣 Commented on [#321](https://github.com/JuliaCon/www.juliacon.org/issues/321) in [JuliaCon/www.juliacon.org](https://github.com/JuliaCon/www.juliacon.org)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
