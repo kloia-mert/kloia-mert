@@ -29,11 +29,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#69](https://github.com/alan-turing-institute/MLJ.jl/issues/69) in [alan-turing-institute/MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl)
-2. 🗣 Commented on [#899](https://github.com/alan-turing-institute/MLJ.jl/issues/899) in [alan-turing-institute/MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl)
-3. 🗣 Commented on [#5](https://github.com/JuliaAI/MLFlowClient.jl/issues/5) in [JuliaAI/MLFlowClient.jl](https://github.com/JuliaAI/MLFlowClient.jl)
-4. 🗣 Commented on [#41](https://github.com/huggingface/course/issues/41) in [huggingface/course](https://github.com/huggingface/course)
-5. 💪 Opened PR [#105](https://github.com/huggingface/course/pull/105) in [huggingface/course](https://github.com/huggingface/course)
+1. 🗣 Commented on [#70](https://github.com/alan-turing-institute/MLJ.jl/issues/70) in [alan-turing-institute/MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl)
+2. 🗣 Commented on [#69](https://github.com/alan-turing-institute/MLJ.jl/issues/69) in [alan-turing-institute/MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl)
+3. 🗣 Commented on [#899](https://github.com/alan-turing-institute/MLJ.jl/issues/899) in [alan-turing-institute/MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl)
+4. 🗣 Commented on [#5](https://github.com/JuliaAI/MLFlowClient.jl/issues/5) in [JuliaAI/MLFlowClient.jl](https://github.com/JuliaAI/MLFlowClient.jl)
+5. 🗣 Commented on [#41](https://github.com/huggingface/course/issues/41) in [huggingface/course](https://github.com/huggingface/course)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
