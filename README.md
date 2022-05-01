@@ -21,7 +21,6 @@
 <!---* [MIT-Stanford based Self-Taught-Degree](https://github.com/mertbozkir/self-taught-degree)📌 -->
  
 * [RFM Customer Segmentation❤️‍🔥Streamlit](https://github.com/mertbozkir/RFM_Customer_Segmentation_Streamlit) 
-* [MentAI: Mental partner for Social Intelligence, Powered by GPT-3](https://www.linkedin.com/posts/activity-6885184275319164928-VfTS) 🎸
 * [PresentX: GPT-3 Based Latex Code Presentation Maker](https://github.com/mertbozkir/PresentX)  🪐
 * [MIT Deep Learning Lab 1: Music Generation with RNNs](https://github.com/mertbozkir/Music_Generation_RNNs)  🎶
 
