@@ -29,11 +29,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#301](https://github.com/Devs-Dungeon/support/issues/301) in [Devs-Dungeon/support](https://github.com/Devs-Dungeon/support)
-2. ❗️ Opened issue [#19](https://github.com/henu/bigjson/issues/19) in [henu/bigjson](https://github.com/henu/bigjson)
-3. 🗣 Commented on [#105](https://github.com/huggingface/course/issues/105) in [huggingface/course](https://github.com/huggingface/course)
-4. 🗣 Commented on [#70](https://github.com/alan-turing-institute/MLJ.jl/issues/70) in [alan-turing-institute/MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl)
-5. 🗣 Commented on [#69](https://github.com/alan-turing-institute/MLJ.jl/issues/69) in [alan-turing-institute/MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl)
+1. ❗️ Opened issue [#4](https://github.com/mertbozkir/mertbozkir.github.io/issues/4) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
+2. ❗️ Opened issue [#3](https://github.com/mertbozkir/mertbozkir.github.io/issues/3) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
+3. ❗️ Opened issue [#2](https://github.com/mertbozkir/mertbozkir.github.io/issues/2) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
+4. ❗️ Opened issue [#301](https://github.com/Devs-Dungeon/support/issues/301) in [Devs-Dungeon/support](https://github.com/Devs-Dungeon/support)
+5. ❗️ Opened issue [#19](https://github.com/henu/bigjson/issues/19) in [henu/bigjson](https://github.com/henu/bigjson)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
