@@ -29,11 +29,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/mertbozkir/mertbozkir.github.io/issues/6) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
-2. ❗️ Opened issue [#4](https://github.com/mertbozkir/mertbozkir.github.io/issues/4) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
-3. ❗️ Opened issue [#3](https://github.com/mertbozkir/mertbozkir.github.io/issues/3) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
-4. ❗️ Opened issue [#2](https://github.com/mertbozkir/mertbozkir.github.io/issues/2) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
-5. ❗️ Opened issue [#301](https://github.com/Devs-Dungeon/support/issues/301) in [Devs-Dungeon/support](https://github.com/Devs-Dungeon/support)
+1. 💪 Opened PR [#1](https://github.com/mertbozkir/mlops-zoomcamp/pull/1) in [mertbozkir/mlops-zoomcamp](https://github.com/mertbozkir/mlops-zoomcamp)
+2. ❗️ Opened issue [#6](https://github.com/mertbozkir/mertbozkir.github.io/issues/6) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
+3. ❗️ Opened issue [#4](https://github.com/mertbozkir/mertbozkir.github.io/issues/4) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
+4. ❗️ Opened issue [#3](https://github.com/mertbozkir/mertbozkir.github.io/issues/3) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
+5. ❗️ Opened issue [#2](https://github.com/mertbozkir/mertbozkir.github.io/issues/2) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
