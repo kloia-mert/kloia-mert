@@ -4,7 +4,7 @@
 
 ## I'm a Self-Taught, Contributor, Developer and Researcher!!
 
-- 🔭 Self-Learning right now... 
+- 🔭 Self-Learning right now. I'm documenting my #66DaysOfMLOps journey...
 - 🧙‍♂️ I'm Community Manager at [@Iterative](https://iterative.ai/), which is an MLOps company. 
 - 🎯 I’m currently learning Real-world Data Science scenarios and ML Operations
 - 👯 Fun fact: I love to dance(salsa, bachata) and meet new people
