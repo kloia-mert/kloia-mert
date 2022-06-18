@@ -23,7 +23,7 @@
 
 <!---* [MIT-Stanford based Self-Taught-Degree](https://github.com/mertbozkir/self-taught-degree)📌 -->
  
-* [👊 Riot Games Data Science](https://github.com/mertbozkir/Riot-Games-Data-Science)
+* [👊 Project D: Riot Games Data Science](https://github.com/mertbozkir/Riot-Games-Data-Science)
 * [RFM Customer Segmentation❤️‍🔥Streamlit](https://github.com/mertbozkir/RFM_Customer_Segmentation_Streamlit) 
 * [PresentX: GPT-3 Based Latex Code Presentation Maker](https://github.com/mertbozkir/PresentX)  🪐
 * [Home-Credit-Default-Risk Analysis with GBMs](https://github.com/mertbozkir/Home-Credit-Default-Risk) 🧩
