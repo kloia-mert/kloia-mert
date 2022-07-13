@@ -34,11 +34,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/mertbozkir/mlops-zoomcamp/pull/1) in [mertbozkir/mlops-zoomcamp](https://github.com/mertbozkir/mlops-zoomcamp)
-2. 🎉 Merged PR [#2](https://github.com/mertbozkir/mlops-zoomcamp/pull/2) in [mertbozkir/mlops-zoomcamp](https://github.com/mertbozkir/mlops-zoomcamp)
-3. 💪 Opened PR [#2](https://github.com/mertbozkir/mlops-zoomcamp/pull/2) in [mertbozkir/mlops-zoomcamp](https://github.com/mertbozkir/mlops-zoomcamp)
-4. 💪 Opened PR [#1](https://github.com/mertbozkir/mlops-zoomcamp/pull/1) in [mertbozkir/mlops-zoomcamp](https://github.com/mertbozkir/mlops-zoomcamp)
-5. ❗️ Opened issue [#6](https://github.com/mertbozkir/mertbozkir.github.io/issues/6) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
+1. ❗️ Opened issue [#64](https://github.com/apvarun/blist-hugo-theme/issues/64) in [apvarun/blist-hugo-theme](https://github.com/apvarun/blist-hugo-theme)
+2. 🎉 Merged PR [#1](https://github.com/mertbozkir/mlops-zoomcamp/pull/1) in [mertbozkir/mlops-zoomcamp](https://github.com/mertbozkir/mlops-zoomcamp)
+3. 🎉 Merged PR [#2](https://github.com/mertbozkir/mlops-zoomcamp/pull/2) in [mertbozkir/mlops-zoomcamp](https://github.com/mertbozkir/mlops-zoomcamp)
+4. 💪 Opened PR [#2](https://github.com/mertbozkir/mlops-zoomcamp/pull/2) in [mertbozkir/mlops-zoomcamp](https://github.com/mertbozkir/mlops-zoomcamp)
+5. 💪 Opened PR [#1](https://github.com/mertbozkir/mlops-zoomcamp/pull/1) in [mertbozkir/mlops-zoomcamp](https://github.com/mertbozkir/mlops-zoomcamp)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
