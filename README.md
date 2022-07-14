@@ -34,11 +34,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/mertbozkir/mertbozkir.github.io/issues/2) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
-2. ❗️ Closed issue [#2](https://github.com/mertbozkir/mertbozkir.github.io/issues/2) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
-3. ❗️ Opened issue [#64](https://github.com/apvarun/blist-hugo-theme/issues/64) in [apvarun/blist-hugo-theme](https://github.com/apvarun/blist-hugo-theme)
-4. 🎉 Merged PR [#1](https://github.com/mertbozkir/mlops-zoomcamp/pull/1) in [mertbozkir/mlops-zoomcamp](https://github.com/mertbozkir/mlops-zoomcamp)
-5. 🎉 Merged PR [#2](https://github.com/mertbozkir/mlops-zoomcamp/pull/2) in [mertbozkir/mlops-zoomcamp](https://github.com/mertbozkir/mlops-zoomcamp)
+1. ❗️ Closed issue [#6](https://github.com/mertbozkir/mertbozkir.github.io/issues/6) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
+2. 🗣 Commented on [#6](https://github.com/mertbozkir/mertbozkir.github.io/issues/6) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
+3. 🗣 Commented on [#2](https://github.com/mertbozkir/mertbozkir.github.io/issues/2) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
+4. ❗️ Closed issue [#2](https://github.com/mertbozkir/mertbozkir.github.io/issues/2) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
+5. ❗️ Opened issue [#64](https://github.com/apvarun/blist-hugo-theme/issues/64) in [apvarun/blist-hugo-theme](https://github.com/apvarun/blist-hugo-theme)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
