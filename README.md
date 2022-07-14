@@ -34,11 +34,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/mertbozkir/mertbozkir.github.io/issues/6) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
-2. 🗣 Commented on [#6](https://github.com/mertbozkir/mertbozkir.github.io/issues/6) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
-3. 🗣 Commented on [#2](https://github.com/mertbozkir/mertbozkir.github.io/issues/2) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
-4. ❗️ Closed issue [#2](https://github.com/mertbozkir/mertbozkir.github.io/issues/2) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
-5. ❗️ Opened issue [#64](https://github.com/apvarun/blist-hugo-theme/issues/64) in [apvarun/blist-hugo-theme](https://github.com/apvarun/blist-hugo-theme)
+1. 🗣 Commented on [#1](https://github.com/mertbozkir/blog/issues/1) in [mertbozkir/blog](https://github.com/mertbozkir/blog)
+2. 🗣 Commented on [#1](https://github.com/mertbozkir/blog/issues/1) in [mertbozkir/blog](https://github.com/mertbozkir/blog)
+3. ❗️ Closed issue [#6](https://github.com/mertbozkir/mertbozkir.github.io/issues/6) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
+4. 🗣 Commented on [#6](https://github.com/mertbozkir/mertbozkir.github.io/issues/6) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
+5. 🗣 Commented on [#2](https://github.com/mertbozkir/mertbozkir.github.io/issues/2) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
