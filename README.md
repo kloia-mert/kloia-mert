@@ -34,11 +34,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/mertbozkir/blog/issues/1) in [mertbozkir/blog](https://github.com/mertbozkir/blog)
-2. 🗣 Commented on [#1](https://github.com/mertbozkir/blog/issues/1) in [mertbozkir/blog](https://github.com/mertbozkir/blog)
-3. ❗️ Closed issue [#6](https://github.com/mertbozkir/mertbozkir.github.io/issues/6) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
-4. 🗣 Commented on [#6](https://github.com/mertbozkir/mertbozkir.github.io/issues/6) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
-5. 🗣 Commented on [#2](https://github.com/mertbozkir/mertbozkir.github.io/issues/2) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
+1. 💪 Opened PR [#378](https://github.com/viatsko/awesome-vscode/pull/378) in [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode)
+2. 💪 Opened PR [#2121](https://github.com/vinta/awesome-python/pull/2121) in [vinta/awesome-python](https://github.com/vinta/awesome-python)
+3. 🗣 Commented on [#1](https://github.com/mertbozkir/blog/issues/1) in [mertbozkir/blog](https://github.com/mertbozkir/blog)
+4. 🗣 Commented on [#1](https://github.com/mertbozkir/blog/issues/1) in [mertbozkir/blog](https://github.com/mertbozkir/blog)
+5. ❗️ Closed issue [#6](https://github.com/mertbozkir/mertbozkir.github.io/issues/6) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
