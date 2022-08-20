@@ -34,11 +34,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#224](https://github.com/ChristosChristofidis/awesome-deep-learning/pull/224) in [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
-2. 💪 Opened PR [#378](https://github.com/viatsko/awesome-vscode/pull/378) in [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode)
-3. 💪 Opened PR [#2121](https://github.com/vinta/awesome-python/pull/2121) in [vinta/awesome-python](https://github.com/vinta/awesome-python)
-4. 🗣 Commented on [#1](https://github.com/mertbozkir/blog/issues/1) in [mertbozkir/blog](https://github.com/mertbozkir/blog)
-5. 🗣 Commented on [#1](https://github.com/mertbozkir/blog/issues/1) in [mertbozkir/blog](https://github.com/mertbozkir/blog)
+1. 💪 Opened PR [#262](https://github.com/EthicalML/awesome-production-machine-learning/pull/262) in [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning)
+2. 💪 Opened PR [#611](https://github.com/sdras/awesome-actions/pull/611) in [sdras/awesome-actions](https://github.com/sdras/awesome-actions)
+3. 💪 Opened PR [#224](https://github.com/ChristosChristofidis/awesome-deep-learning/pull/224) in [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+4. 💪 Opened PR [#378](https://github.com/viatsko/awesome-vscode/pull/378) in [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode)
+5. 💪 Opened PR [#2121](https://github.com/vinta/awesome-python/pull/2121) in [vinta/awesome-python](https://github.com/vinta/awesome-python)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
