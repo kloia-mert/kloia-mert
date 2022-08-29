@@ -34,11 +34,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#31](https://github.com/r0f1/datascience/pull/31) in [r0f1/datascience](https://github.com/r0f1/datascience)
-2. 💪 Opened PR [#30](https://github.com/r0f1/datascience/pull/30) in [r0f1/datascience](https://github.com/r0f1/datascience)
-3. 💪 Opened PR [#180](https://github.com/shuaibiyy/awesome-terraform/pull/180) in [shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform)
-4. 💪 Opened PR [#262](https://github.com/EthicalML/awesome-production-machine-learning/pull/262) in [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning)
-5. 💪 Opened PR [#611](https://github.com/sdras/awesome-actions/pull/611) in [sdras/awesome-actions](https://github.com/sdras/awesome-actions)
+1. 💪 Opened PR [#19](https://github.com/fuzzylabs/awesome-open-mlops/pull/19) in [fuzzylabs/awesome-open-mlops](https://github.com/fuzzylabs/awesome-open-mlops)
+2. 💪 Opened PR [#335](https://github.com/academic/awesome-datascience/pull/335) in [academic/awesome-datascience](https://github.com/academic/awesome-datascience)
+3. 💪 Opened PR [#31](https://github.com/r0f1/datascience/pull/31) in [r0f1/datascience](https://github.com/r0f1/datascience)
+4. 💪 Opened PR [#30](https://github.com/r0f1/datascience/pull/30) in [r0f1/datascience](https://github.com/r0f1/datascience)
+5. 💪 Opened PR [#180](https://github.com/shuaibiyy/awesome-terraform/pull/180) in [shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
