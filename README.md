@@ -34,11 +34,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/ahkarami/Deep-Learning-in-Production/pull/12) in [ahkarami/Deep-Learning-in-Production](https://github.com/ahkarami/Deep-Learning-in-Production)
-2. 💪 Opened PR [#19](https://github.com/fuzzylabs/awesome-open-mlops/pull/19) in [fuzzylabs/awesome-open-mlops](https://github.com/fuzzylabs/awesome-open-mlops)
-3. 💪 Opened PR [#335](https://github.com/academic/awesome-datascience/pull/335) in [academic/awesome-datascience](https://github.com/academic/awesome-datascience)
-4. 💪 Opened PR [#31](https://github.com/r0f1/datascience/pull/31) in [r0f1/datascience](https://github.com/r0f1/datascience)
-5. 💪 Opened PR [#30](https://github.com/r0f1/datascience/pull/30) in [r0f1/datascience](https://github.com/r0f1/datascience)
+1. 💪 Opened PR [#22](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS/pull/22) in [benthecoder/yt-channels-DS-AI-ML-CS](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS)
+2. 💪 Opened PR [#804](https://github.com/lukasz-madon/awesome-remote-job/pull/804) in [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
+3. 💪 Opened PR [#12](https://github.com/ahkarami/Deep-Learning-in-Production/pull/12) in [ahkarami/Deep-Learning-in-Production](https://github.com/ahkarami/Deep-Learning-in-Production)
+4. 💪 Opened PR [#19](https://github.com/fuzzylabs/awesome-open-mlops/pull/19) in [fuzzylabs/awesome-open-mlops](https://github.com/fuzzylabs/awesome-open-mlops)
+5. 💪 Opened PR [#335](https://github.com/academic/awesome-datascience/pull/335) in [academic/awesome-datascience](https://github.com/academic/awesome-datascience)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
