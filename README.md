@@ -5,17 +5,17 @@
 ## I'm a Self-Taught, Contributor, Developer and Researcher!!
 
 - 🔭 Self-Learning right now. I'm documenting my #66DaysOfMLOps journey...
-- 🧙‍♂️ I'm Community Program Coordinator at [@Iterative](https://iterative.ai/), which is an MLOps company. 
+- 🧙‍♂️ I'm Community Coordinator at [@Iterative](https://iterative.ai/), which is an MLOps company. 
 - 🎯 I’m currently learning Real-world Data Science scenarios and ML Operations
 - 👯 Fun fact: I love to dance(salsa, bachata) and meet new people
 - 🥅 2022 Goals: Contribute more to Open Source and Communities below;
 
 &emsp;&emsp;&emsp;&ensp;
-[<img width="30px" style="vertical-align: text-top;" src="https://static.iterative.ai/logo/dvc.svg"/>](https://dvc.org)  [<img width="30px" style="vertical-align: text-top;" src="https://pydata.org/global2021/wp-content/uploads/2021/06/cropped-logo.png"/>](https://pydata.org/) [<img width="30px" style="vertical-align: text-top;" src="https://avatars.githubusercontent.com/u/57668889?s=200&v=4"/>](https://dagshub.com) 
+[<img width="30px" style="vertical-align: text-top;" src="https://static.iterative.ai/logo/dvc.svg"/>](https://dvc.org)  [<img width="30px" style="vertical-align: text-top;" src="https://avatars.githubusercontent.com/u/57668889?s=200&v=4"/>](https://dagshub.com) 
 
 
 <!---* [<img width="30px" style="vertical-align: text-top;" src="https://avatars.githubusercontent.com/u/743164?s=280&v=4"/>](https://julialang.org) -->
-
+ <!---* [<img width="30px" style="vertical-align: text-top;" src="https://pydata.org/global2021/wp-content/uploads/2021/06/logo.png"/>](https://pydata.org/) -->
 
  
 
@@ -23,7 +23,7 @@
 
 <!---* [MIT-Stanford based Self-Taught-Degree](https://github.com/mertbozkir/self-taught-degree)📌 -->
  
-* [👊 Project D: Riot Games Data Science](https://github.com/mertbozkir/Riot-Games-Data-Science)
+<!---* * [👊 Project D: Riot Games Data Science](https://github.com/mertbozkir/Riot-Games-Data-Science) -->
 * [RFM Customer Segmentation❤️‍🔥Streamlit](https://github.com/mertbozkir/RFM_Customer_Segmentation_Streamlit) 
 * [PresentX: GPT-3 Based Latex Code Presentation Maker](https://github.com/mertbozkir/PresentX)  🪐
 * [Home-Credit-Default-Risk Analysis with GBMs](https://github.com/mertbozkir/Home-Credit-Default-Risk) 🧩
