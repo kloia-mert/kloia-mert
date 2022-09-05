@@ -34,11 +34,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/kelvins/awesome-dataops/pull/2) in [kelvins/awesome-dataops](https://github.com/kelvins/awesome-dataops)
-2. 💪 Opened PR [#64](https://github.com/kelvins/awesome-mlops/pull/64) in [kelvins/awesome-mlops](https://github.com/kelvins/awesome-mlops)
-3. 🗣 Commented on [#262](https://github.com/EthicalML/awesome-production-machine-learning/issues/262) in [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning)
-4. 💪 Opened PR [#22](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS/pull/22) in [benthecoder/yt-channels-DS-AI-ML-CS](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS)
-5. 💪 Opened PR [#804](https://github.com/lukasz-madon/awesome-remote-job/pull/804) in [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
+1. ❗️ Opened issue [#190](https://github.com/ml-tooling/best-of-ml-python/issues/190) in [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python)
+2. 💪 Opened PR [#2](https://github.com/kelvins/awesome-dataops/pull/2) in [kelvins/awesome-dataops](https://github.com/kelvins/awesome-dataops)
+3. 💪 Opened PR [#64](https://github.com/kelvins/awesome-mlops/pull/64) in [kelvins/awesome-mlops](https://github.com/kelvins/awesome-mlops)
+4. 🗣 Commented on [#262](https://github.com/EthicalML/awesome-production-machine-learning/issues/262) in [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning)
+5. 💪 Opened PR [#22](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS/pull/22) in [benthecoder/yt-channels-DS-AI-ML-CS](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
