@@ -34,11 +34,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#262](https://github.com/EthicalML/awesome-production-machine-learning/issues/262) in [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning)
-2. 💪 Opened PR [#881](https://github.com/josephmisiti/awesome-machine-learning/pull/881) in [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
-3. ❗️ Opened issue [#191](https://github.com/ml-tooling/best-of-ml-python/issues/191) in [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python)
-4. ❗️ Opened issue [#190](https://github.com/ml-tooling/best-of-ml-python/issues/190) in [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python)
-5. 💪 Opened PR [#2](https://github.com/kelvins/awesome-dataops/pull/2) in [kelvins/awesome-dataops](https://github.com/kelvins/awesome-dataops)
+1. ❗️ Opened issue [#1](https://github.com/jupyter-naas/open-source-room/issues/1) in [jupyter-naas/open-source-room](https://github.com/jupyter-naas/open-source-room)
+2. ❗️ Opened issue [#13](https://github.com/iterative/awesome-iterative-projects/issues/13) in [iterative/awesome-iterative-projects](https://github.com/iterative/awesome-iterative-projects)
+3. 💪 Opened PR [#12](https://github.com/iterative/awesome-iterative-projects/pull/12) in [iterative/awesome-iterative-projects](https://github.com/iterative/awesome-iterative-projects)
+4. 🗣 Commented on [#262](https://github.com/EthicalML/awesome-production-machine-learning/issues/262) in [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning)
+5. 💪 Opened PR [#881](https://github.com/josephmisiti/awesome-machine-learning/pull/881) in [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
