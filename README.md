@@ -34,11 +34,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#262](https://github.com/EthicalML/awesome-production-machine-learning/issues/262) in [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning)
-2. ❗️ Opened issue [#1](https://github.com/jupyter-naas/open-source-room/issues/1) in [jupyter-naas/open-source-room](https://github.com/jupyter-naas/open-source-room)
-3. ❗️ Opened issue [#13](https://github.com/iterative/awesome-iterative-projects/issues/13) in [iterative/awesome-iterative-projects](https://github.com/iterative/awesome-iterative-projects)
-4. 💪 Opened PR [#12](https://github.com/iterative/awesome-iterative-projects/pull/12) in [iterative/awesome-iterative-projects](https://github.com/iterative/awesome-iterative-projects)
-5. 🗣 Commented on [#262](https://github.com/EthicalML/awesome-production-machine-learning/issues/262) in [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning)
+1. ❗️ Closed issue [#19](https://github.com/henu/bigjson/issues/19) in [henu/bigjson](https://github.com/henu/bigjson)
+2. 🗣 Commented on [#262](https://github.com/EthicalML/awesome-production-machine-learning/issues/262) in [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning)
+3. ❗️ Opened issue [#1](https://github.com/jupyter-naas/open-source-room/issues/1) in [jupyter-naas/open-source-room](https://github.com/jupyter-naas/open-source-room)
+4. ❗️ Opened issue [#13](https://github.com/iterative/awesome-iterative-projects/issues/13) in [iterative/awesome-iterative-projects](https://github.com/iterative/awesome-iterative-projects)
+5. 💪 Opened PR [#12](https://github.com/iterative/awesome-iterative-projects/pull/12) in [iterative/awesome-iterative-projects](https://github.com/iterative/awesome-iterative-projects)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
