@@ -34,11 +34,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/jupyter-naas/open-source-room/issues/1) in [jupyter-naas/open-source-room](https://github.com/jupyter-naas/open-source-room)
-2. ❗️ Opened issue [#13](https://github.com/iterative/awesome-iterative-projects/issues/13) in [iterative/awesome-iterative-projects](https://github.com/iterative/awesome-iterative-projects)
-3. 💪 Opened PR [#12](https://github.com/iterative/awesome-iterative-projects/pull/12) in [iterative/awesome-iterative-projects](https://github.com/iterative/awesome-iterative-projects)
-4. 🗣 Commented on [#262](https://github.com/EthicalML/awesome-production-machine-learning/issues/262) in [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning)
-5. 💪 Opened PR [#881](https://github.com/josephmisiti/awesome-machine-learning/pull/881) in [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+1. 🗣 Commented on [#262](https://github.com/EthicalML/awesome-production-machine-learning/issues/262) in [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning)
+2. ❗️ Opened issue [#1](https://github.com/jupyter-naas/open-source-room/issues/1) in [jupyter-naas/open-source-room](https://github.com/jupyter-naas/open-source-room)
+3. ❗️ Opened issue [#13](https://github.com/iterative/awesome-iterative-projects/issues/13) in [iterative/awesome-iterative-projects](https://github.com/iterative/awesome-iterative-projects)
+4. 💪 Opened PR [#12](https://github.com/iterative/awesome-iterative-projects/pull/12) in [iterative/awesome-iterative-projects](https://github.com/iterative/awesome-iterative-projects)
+5. 🗣 Commented on [#262](https://github.com/EthicalML/awesome-production-machine-learning/issues/262) in [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
