@@ -34,11 +34,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/mertbozkir/mertbozkir.github.io/issues/3) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
-2. ❗️ Closed issue [#19](https://github.com/henu/bigjson/issues/19) in [henu/bigjson](https://github.com/henu/bigjson)
-3. 🗣 Commented on [#262](https://github.com/EthicalML/awesome-production-machine-learning/issues/262) in [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning)
-4. ❗️ Opened issue [#1](https://github.com/jupyter-naas/open-source-room/issues/1) in [jupyter-naas/open-source-room](https://github.com/jupyter-naas/open-source-room)
-5. ❗️ Opened issue [#13](https://github.com/iterative/awesome-iterative-projects/issues/13) in [iterative/awesome-iterative-projects](https://github.com/iterative/awesome-iterative-projects)
+1. 🗣 Commented on [#650](https://github.com/milvus-io/bootcamp/issues/650) in [milvus-io/bootcamp](https://github.com/milvus-io/bootcamp)
+2. 🗣 Commented on [#892](https://github.com/milvus-io/pymilvus/issues/892) in [milvus-io/pymilvus](https://github.com/milvus-io/pymilvus)
+3. 🗣 Commented on [#892](https://github.com/milvus-io/pymilvus/issues/892) in [milvus-io/pymilvus](https://github.com/milvus-io/pymilvus)
+4. 🗣 Commented on [#3](https://github.com/mertbozkir/mertbozkir.github.io/issues/3) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
+5. ❗️ Closed issue [#19](https://github.com/henu/bigjson/issues/19) in [henu/bigjson](https://github.com/henu/bigjson)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
