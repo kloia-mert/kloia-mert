@@ -34,10 +34,10 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#12](https://github.com/iterative/awesome-iterative-projects/pull/12) in [iterative/awesome-iterative-projects](https://github.com/iterative/awesome-iterative-projects)
-2. 🗣 Commented on [#12](https://github.com/iterative/awesome-iterative-projects/issues/12) in [iterative/awesome-iterative-projects](https://github.com/iterative/awesome-iterative-projects)
-3. 🗣 Commented on [#650](https://github.com/milvus-io/bootcamp/issues/650) in [milvus-io/bootcamp](https://github.com/milvus-io/bootcamp)
-4. 🗣 Commented on [#892](https://github.com/milvus-io/pymilvus/issues/892) in [milvus-io/pymilvus](https://github.com/milvus-io/pymilvus)
+1. 🗣 Commented on [#345](https://github.com/evidentlyai/evidently/issues/345) in [evidentlyai/evidently](https://github.com/evidentlyai/evidently)
+2. ❌ Closed PR [#12](https://github.com/iterative/awesome-iterative-projects/pull/12) in [iterative/awesome-iterative-projects](https://github.com/iterative/awesome-iterative-projects)
+3. 🗣 Commented on [#12](https://github.com/iterative/awesome-iterative-projects/issues/12) in [iterative/awesome-iterative-projects](https://github.com/iterative/awesome-iterative-projects)
+4. 🗣 Commented on [#650](https://github.com/milvus-io/bootcamp/issues/650) in [milvus-io/bootcamp](https://github.com/milvus-io/bootcamp)
 5. 🗣 Commented on [#892](https://github.com/milvus-io/pymilvus/issues/892) in [milvus-io/pymilvus](https://github.com/milvus-io/pymilvus)
 <!--END_SECTION:activity-->
 
