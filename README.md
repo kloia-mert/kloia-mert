@@ -34,11 +34,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2569](https://github.com/flyteorg/flyte/issues/2569) in [flyteorg/flyte](https://github.com/flyteorg/flyte)
-2. 🗣 Commented on [#2965](https://github.com/flyteorg/flyte/issues/2965) in [flyteorg/flyte](https://github.com/flyteorg/flyte)
-3. 🗣 Commented on [#2676](https://github.com/flyteorg/flyte/issues/2676) in [flyteorg/flyte](https://github.com/flyteorg/flyte)
-4. 🗣 Commented on [#409](https://github.com/huggingface/hub-docs/issues/409) in [huggingface/hub-docs](https://github.com/huggingface/hub-docs)
-5. 💪 Opened PR [#1](https://github.com/SangamSwadiK/evidently/pull/1) in [SangamSwadiK/evidently](https://github.com/SangamSwadiK/evidently)
+1. ❗️ Closed issue [#3](https://github.com/mertbozkir/mertbozkir.github.io/issues/3) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
+2. 🗣 Commented on [#3](https://github.com/mertbozkir/mertbozkir.github.io/issues/3) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
+3. 🗣 Commented on [#3](https://github.com/mertbozkir/mertbozkir.github.io/issues/3) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
+4. 🗣 Commented on [#2569](https://github.com/flyteorg/flyte/issues/2569) in [flyteorg/flyte](https://github.com/flyteorg/flyte)
+5. 🗣 Commented on [#2965](https://github.com/flyteorg/flyte/issues/2965) in [flyteorg/flyte](https://github.com/flyteorg/flyte)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
