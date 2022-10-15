@@ -34,11 +34,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#345](https://github.com/evidentlyai/evidently/issues/345) in [evidentlyai/evidently](https://github.com/evidentlyai/evidently)
+1. 💪 Opened PR [#1](https://github.com/SangamSwadiK/evidently/pull/1) in [SangamSwadiK/evidently](https://github.com/SangamSwadiK/evidently)
 2. 🗣 Commented on [#345](https://github.com/evidentlyai/evidently/issues/345) in [evidentlyai/evidently](https://github.com/evidentlyai/evidently)
-3. ❌ Closed PR [#12](https://github.com/iterative/awesome-iterative-projects/pull/12) in [iterative/awesome-iterative-projects](https://github.com/iterative/awesome-iterative-projects)
-4. 🗣 Commented on [#12](https://github.com/iterative/awesome-iterative-projects/issues/12) in [iterative/awesome-iterative-projects](https://github.com/iterative/awesome-iterative-projects)
-5. 🗣 Commented on [#650](https://github.com/milvus-io/bootcamp/issues/650) in [milvus-io/bootcamp](https://github.com/milvus-io/bootcamp)
+3. 🗣 Commented on [#345](https://github.com/evidentlyai/evidently/issues/345) in [evidentlyai/evidently](https://github.com/evidentlyai/evidently)
+4. ❌ Closed PR [#12](https://github.com/iterative/awesome-iterative-projects/pull/12) in [iterative/awesome-iterative-projects](https://github.com/iterative/awesome-iterative-projects)
+5. 🗣 Commented on [#12](https://github.com/iterative/awesome-iterative-projects/issues/12) in [iterative/awesome-iterative-projects](https://github.com/iterative/awesome-iterative-projects)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
