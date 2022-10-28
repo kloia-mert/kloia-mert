@@ -34,11 +34,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/SangamSwadiK/evidently/pull/1) in [SangamSwadiK/evidently](https://github.com/SangamSwadiK/evidently)
-2. 🗣 Commented on [#1](https://github.com/SangamSwadiK/evidently/issues/1) in [SangamSwadiK/evidently](https://github.com/SangamSwadiK/evidently)
-3. 💪 Opened PR [#2](https://github.com/SangamSwadiK/evidently/pull/2) in [SangamSwadiK/evidently](https://github.com/SangamSwadiK/evidently)
-4. ❗️ Closed issue [#3](https://github.com/mertbozkir/mertbozkir.github.io/issues/3) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
-5. 🗣 Commented on [#3](https://github.com/mertbozkir/mertbozkir.github.io/issues/3) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
+1. ❗️ Opened issue [#7](https://github.com/mertbozkir/mertbozkir.github.io/issues/7) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
+2. ❌ Closed PR [#1](https://github.com/SangamSwadiK/evidently/pull/1) in [SangamSwadiK/evidently](https://github.com/SangamSwadiK/evidently)
+3. 🗣 Commented on [#1](https://github.com/SangamSwadiK/evidently/issues/1) in [SangamSwadiK/evidently](https://github.com/SangamSwadiK/evidently)
+4. 💪 Opened PR [#2](https://github.com/SangamSwadiK/evidently/pull/2) in [SangamSwadiK/evidently](https://github.com/SangamSwadiK/evidently)
+5. ❗️ Closed issue [#3](https://github.com/mertbozkir/mertbozkir.github.io/issues/3) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
