@@ -34,11 +34,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#444](https://github.com/iterative/mlem/issues/444) in [iterative/mlem](https://github.com/iterative/mlem)
-2. ❗️ Opened issue [#7](https://github.com/mertbozkir/mertbozkir.github.io/issues/7) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
-3. ❌ Closed PR [#1](https://github.com/SangamSwadiK/evidently/pull/1) in [SangamSwadiK/evidently](https://github.com/SangamSwadiK/evidently)
-4. 🗣 Commented on [#1](https://github.com/SangamSwadiK/evidently/issues/1) in [SangamSwadiK/evidently](https://github.com/SangamSwadiK/evidently)
-5. 💪 Opened PR [#2](https://github.com/SangamSwadiK/evidently/pull/2) in [SangamSwadiK/evidently](https://github.com/SangamSwadiK/evidently)
+1. 🗣 Commented on [#7](https://github.com/TuanManhCao/digital-garden/issues/7) in [TuanManhCao/digital-garden](https://github.com/TuanManhCao/digital-garden)
+2. 🗣 Commented on [#444](https://github.com/iterative/mlem/issues/444) in [iterative/mlem](https://github.com/iterative/mlem)
+3. ❗️ Opened issue [#7](https://github.com/mertbozkir/mertbozkir.github.io/issues/7) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
+4. ❌ Closed PR [#1](https://github.com/SangamSwadiK/evidently/pull/1) in [SangamSwadiK/evidently](https://github.com/SangamSwadiK/evidently)
+5. 🗣 Commented on [#1](https://github.com/SangamSwadiK/evidently/issues/1) in [SangamSwadiK/evidently](https://github.com/SangamSwadiK/evidently)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
