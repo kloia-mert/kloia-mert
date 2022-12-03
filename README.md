@@ -35,10 +35,10 @@
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4222](https://github.com/optuna/optuna/issues/4222) in [optuna/optuna](https://github.com/optuna/optuna)
-2. 💪 Opened PR [#4222](https://github.com/optuna/optuna/pull/4222) in [optuna/optuna](https://github.com/optuna/optuna)
-3. 🗣 Commented on [#3964](https://github.com/optuna/optuna/issues/3964) in [optuna/optuna](https://github.com/optuna/optuna)
-4. 🗣 Commented on [#7](https://github.com/TuanManhCao/digital-garden/issues/7) in [TuanManhCao/digital-garden](https://github.com/TuanManhCao/digital-garden)
-5. 🗣 Commented on [#444](https://github.com/iterative/mlem/issues/444) in [iterative/mlem](https://github.com/iterative/mlem)
+2. 🗣 Commented on [#4222](https://github.com/optuna/optuna/issues/4222) in [optuna/optuna](https://github.com/optuna/optuna)
+3. 🗣 Commented on [#4222](https://github.com/optuna/optuna/issues/4222) in [optuna/optuna](https://github.com/optuna/optuna)
+4. 💪 Opened PR [#4222](https://github.com/optuna/optuna/pull/4222) in [optuna/optuna](https://github.com/optuna/optuna)
+5. 🗣 Commented on [#3964](https://github.com/optuna/optuna/issues/3964) in [optuna/optuna](https://github.com/optuna/optuna)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
