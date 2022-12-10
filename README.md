@@ -35,10 +35,10 @@
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4954](https://github.com/modin-project/modin/issues/4954) in [modin-project/modin](https://github.com/modin-project/modin)
-2. 🗣 Commented on [#4222](https://github.com/optuna/optuna/issues/4222) in [optuna/optuna](https://github.com/optuna/optuna)
+2. 🗣 Commented on [#4954](https://github.com/modin-project/modin/issues/4954) in [modin-project/modin](https://github.com/modin-project/modin)
 3. 🗣 Commented on [#4222](https://github.com/optuna/optuna/issues/4222) in [optuna/optuna](https://github.com/optuna/optuna)
 4. 🗣 Commented on [#4222](https://github.com/optuna/optuna/issues/4222) in [optuna/optuna](https://github.com/optuna/optuna)
-5. 💪 Opened PR [#4222](https://github.com/optuna/optuna/pull/4222) in [optuna/optuna](https://github.com/optuna/optuna)
+5. 🗣 Commented on [#4222](https://github.com/optuna/optuna/issues/4222) in [optuna/optuna](https://github.com/optuna/optuna)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
