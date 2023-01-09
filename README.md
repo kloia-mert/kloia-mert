@@ -4,18 +4,16 @@
 
 ## I'm a Self-Taught, Contributor, Developer and Researcher!!
 
-- 🔭 Self-Learning right now. I'm documenting my #66DaysOfMLOps journey...
+- 🔭 Self-Learning right now. I'm documenting my #365DaysOfCode journey...
 - 🧙‍♂️ I'm Community Coordinator at [@Iterative](https://iterative.ai/), which is an MLOps company. 
-- 🎯 I’m currently learning Real-world Data Science scenarios and ML Operations
+- 🎯 I’m currently learning Julia language and MLOps
 - 👯 Fun fact: I love to dance(salsa, bachata) and meet new people
 - 🥅 2022 Goals: Contribute more to Open Source and Communities below;
 
 &emsp;&emsp;&emsp;&ensp;
 [<img width="30px" style="vertical-align: text-top;" src="https://static.iterative.ai/logo/dvc.svg"/>](https://dvc.org)  [<img width="30px" style="vertical-align: text-top;" src="https://avatars.githubusercontent.com/u/57668889?s=200&v=4"/>](https://dagshub.com) 
-
-
-<!---* [<img width="30px" style="vertical-align: text-top;" src="https://avatars.githubusercontent.com/u/743164?s=280&v=4"/>](https://julialang.org) -->
- <!---* [<img width="30px" style="vertical-align: text-top;" src="https://pydata.org/global2021/wp-content/uploads/2021/06/logo.png"/>](https://pydata.org/) -->
+[<img width="30px" style="vertical-align: text-top;" src="https://avatars.githubusercontent.com/u/743164?s=280&v=4"/>](https://julialang.org) 
+[<img width="30px" style="vertical-align: text-top;" src="https://pydata.org/wp-content/uploads/2021/07/cropped-logo.png"/>](https://pydata.org/)
 
  
 
