@@ -32,11 +32,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#93](https://github.com/flyerhq/flutter_firebase_chat_core/issues/93) in [flyerhq/flutter_firebase_chat_core](https://github.com/flyerhq/flutter_firebase_chat_core)
-2. 🗣 Commented on [#4222](https://github.com/optuna/optuna/issues/4222) in [optuna/optuna](https://github.com/optuna/optuna)
-3. 🗣 Commented on [#4954](https://github.com/modin-project/modin/issues/4954) in [modin-project/modin](https://github.com/modin-project/modin)
-4. 🗣 Commented on [#4954](https://github.com/modin-project/modin/issues/4954) in [modin-project/modin](https://github.com/modin-project/modin)
-5. 🗣 Commented on [#4222](https://github.com/optuna/optuna/issues/4222) in [optuna/optuna](https://github.com/optuna/optuna)
+1. ❗️ Opened issue [#2](https://github.com/mertbozkir/project-of-the-week/issues/2) in [mertbozkir/project-of-the-week](https://github.com/mertbozkir/project-of-the-week)
+2. ❗️ Opened issue [#1](https://github.com/mertbozkir/project-of-the-week/issues/1) in [mertbozkir/project-of-the-week](https://github.com/mertbozkir/project-of-the-week)
+3. 🗣 Commented on [#93](https://github.com/flyerhq/flutter_firebase_chat_core/issues/93) in [flyerhq/flutter_firebase_chat_core](https://github.com/flyerhq/flutter_firebase_chat_core)
+4. 🗣 Commented on [#4222](https://github.com/optuna/optuna/issues/4222) in [optuna/optuna](https://github.com/optuna/optuna)
+5. 🗣 Commented on [#4954](https://github.com/modin-project/modin/issues/4954) in [modin-project/modin](https://github.com/modin-project/modin)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
