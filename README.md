@@ -32,11 +32,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#804](https://github.com/lukasz-madon/awesome-remote-job/issues/804) in [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
-2. ❗️ Opened issue [#150](https://github.com/JuliaComputing/JuliaHub-Feedback/issues/150) in [JuliaComputing/JuliaHub-Feedback](https://github.com/JuliaComputing/JuliaHub-Feedback)
-3. ❗️ Opened issue [#2](https://github.com/mertbozkir/project-of-the-week/issues/2) in [mertbozkir/project-of-the-week](https://github.com/mertbozkir/project-of-the-week)
-4. ❗️ Opened issue [#1](https://github.com/mertbozkir/project-of-the-week/issues/1) in [mertbozkir/project-of-the-week](https://github.com/mertbozkir/project-of-the-week)
-5. 🗣 Commented on [#93](https://github.com/flyerhq/flutter_firebase_chat_core/issues/93) in [flyerhq/flutter_firebase_chat_core](https://github.com/flyerhq/flutter_firebase_chat_core)
+1. 🗣 Commented on [#5330](https://github.com/ruffle-rs/ruffle/issues/5330) in [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle)
+2. 🗣 Commented on [#804](https://github.com/lukasz-madon/awesome-remote-job/issues/804) in [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
+3. ❗️ Opened issue [#150](https://github.com/JuliaComputing/JuliaHub-Feedback/issues/150) in [JuliaComputing/JuliaHub-Feedback](https://github.com/JuliaComputing/JuliaHub-Feedback)
+4. ❗️ Opened issue [#2](https://github.com/mertbozkir/project-of-the-week/issues/2) in [mertbozkir/project-of-the-week](https://github.com/mertbozkir/project-of-the-week)
+5. ❗️ Opened issue [#1](https://github.com/mertbozkir/project-of-the-week/issues/1) in [mertbozkir/project-of-the-week](https://github.com/mertbozkir/project-of-the-week)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
