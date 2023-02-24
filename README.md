@@ -32,11 +32,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5330](https://github.com/ruffle-rs/ruffle/issues/5330) in [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle)
-2. 🗣 Commented on [#804](https://github.com/lukasz-madon/awesome-remote-job/issues/804) in [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
-3. ❗️ Opened issue [#150](https://github.com/JuliaComputing/JuliaHub-Feedback/issues/150) in [JuliaComputing/JuliaHub-Feedback](https://github.com/JuliaComputing/JuliaHub-Feedback)
-4. ❗️ Opened issue [#2](https://github.com/mertbozkir/project-of-the-week/issues/2) in [mertbozkir/project-of-the-week](https://github.com/mertbozkir/project-of-the-week)
-5. ❗️ Opened issue [#1](https://github.com/mertbozkir/project-of-the-week/issues/1) in [mertbozkir/project-of-the-week](https://github.com/mertbozkir/project-of-the-week)
+1. ❗️ Opened issue [#10](https://github.com/mertbozkir/mertbozkir.github.io/issues/10) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
+2. ❗️ Opened issue [#9](https://github.com/mertbozkir/mertbozkir.github.io/issues/9) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
+3. ❗️ Opened issue [#8](https://github.com/mertbozkir/mertbozkir.github.io/issues/8) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
+4. ❗️ Closed issue [#7](https://github.com/mertbozkir/mertbozkir.github.io/issues/7) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
+5. 🗣 Commented on [#7](https://github.com/mertbozkir/mertbozkir.github.io/issues/7) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
