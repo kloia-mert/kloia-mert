@@ -32,11 +32,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10](https://github.com/mertbozkir/mertbozkir.github.io/issues/10) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
-2. ❗️ Opened issue [#9](https://github.com/mertbozkir/mertbozkir.github.io/issues/9) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
-3. ❗️ Opened issue [#8](https://github.com/mertbozkir/mertbozkir.github.io/issues/8) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
-4. ❗️ Closed issue [#7](https://github.com/mertbozkir/mertbozkir.github.io/issues/7) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
-5. 🗣 Commented on [#7](https://github.com/mertbozkir/mertbozkir.github.io/issues/7) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
+1. ❗️ Opened issue [#1](https://github.com/mertbozkir/DVC.jl/issues/1) in [mertbozkir/DVC.jl](https://github.com/mertbozkir/DVC.jl)
+2. ❗️ Opened issue [#10](https://github.com/mertbozkir/mertbozkir.github.io/issues/10) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
+3. ❗️ Opened issue [#9](https://github.com/mertbozkir/mertbozkir.github.io/issues/9) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
+4. ❗️ Opened issue [#8](https://github.com/mertbozkir/mertbozkir.github.io/issues/8) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
+5. ❗️ Closed issue [#7](https://github.com/mertbozkir/mertbozkir.github.io/issues/7) in [mertbozkir/mertbozkir.github.io](https://github.com/mertbozkir/mertbozkir.github.io)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
