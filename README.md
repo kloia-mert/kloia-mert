@@ -47,10 +47,11 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:mert.bozkirr@gmail.com)&nbsp;
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@mertbozkir)&nbsp;
  
-
+<!--
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <p>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mertbozkir&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mertbozkir&theme=tokyonight" />
 </p>
+-->
