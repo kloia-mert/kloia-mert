@@ -4,7 +4,7 @@
 
 ## I'm a Self-Taught, Contributor, Developer and Researcher!!
 
-- 🔭 Self-Learning right now. I'm documenting my #365DaysOfCode journey...
+- 🔭 Self-Learning right now. I'm documenting my journey on social...
 - 🧙‍♂️ I'm Community Coordinator at [@Iterative](https://iterative.ai/), which is an MLOps company. 
 - 🎯 I’m currently learning Julia language and MLOps
 - 👯 Fun fact: I love to dance(salsa, bachata) and meet new people
@@ -41,12 +41,14 @@
 
 ## 📬 Connect with me:
 
+[<img align="left" alt="codeSTACKr | Website" width="22px" src="https://ghost.org/images/logos/ghost-logo-orb.png" />](https://www.mertbozkir.com)&nbsp;
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCXea7z2u1TsOd8FICU1EhIQ)&nbsp;
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/mertbozkirr)&nbsp;
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mertbozkir/)&nbsp;
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:mert.bozkirr@gmail.com)&nbsp;
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@mertbozkir)&nbsp;
- 
+[<img align="left" alt="codeSTACKr | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:mert.bozkirr@gmail.com)&nbsp;
+[<img align="left" alt="codeSTACKr | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@mertbozkir)&nbsp;
+
+
 <!--
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
