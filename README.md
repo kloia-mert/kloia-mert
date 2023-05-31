@@ -33,10 +33,10 @@
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3](https://github.com/mertbozkir/DVC.jl/issues/3) in [mertbozkir/DVC.jl](https://github.com/mertbozkir/DVC.jl)
-2. ❗️ Opened issue [#4](https://github.com/mertbozkir/DVC.jl/issues/4) in [mertbozkir/DVC.jl](https://github.com/mertbozkir/DVC.jl)
-3. ❗️ Opened issue [#3](https://github.com/mertbozkir/DVC.jl/issues/3) in [mertbozkir/DVC.jl](https://github.com/mertbozkir/DVC.jl)
-4. ❗️ Opened issue [#2](https://github.com/mertbozkir/DVC.jl/issues/2) in [mertbozkir/DVC.jl](https://github.com/mertbozkir/DVC.jl)
-5. ❗️ Opened issue [#1](https://github.com/mertbozkir/DVC.jl/issues/1) in [mertbozkir/DVC.jl](https://github.com/mertbozkir/DVC.jl)
+2. ❗ Opened issue [#4](https://github.com/mertbozkir/DVC.jl/issues/4) in [mertbozkir/DVC.jl](https://github.com/mertbozkir/DVC.jl)
+3. ❗ Opened issue [#3](https://github.com/mertbozkir/DVC.jl/issues/3) in [mertbozkir/DVC.jl](https://github.com/mertbozkir/DVC.jl)
+4. ❗ Opened issue [#2](https://github.com/mertbozkir/DVC.jl/issues/2) in [mertbozkir/DVC.jl](https://github.com/mertbozkir/DVC.jl)
+5. ❗ Opened issue [#1](https://github.com/mertbozkir/DVC.jl/issues/1) in [mertbozkir/DVC.jl](https://github.com/mertbozkir/DVC.jl)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
