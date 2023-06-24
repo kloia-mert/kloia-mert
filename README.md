@@ -32,10 +32,10 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#76](https://github.com/rocktimsaikia/anime-chan/issues/76) in [rocktimsaikia/anime-chan](https://github.com/rocktimsaikia/anime-chan)
-2. 🗣 Commented on [#3](https://github.com/mertbozkir/DVC.jl/issues/3) in [mertbozkir/DVC.jl](https://github.com/mertbozkir/DVC.jl)
-3. ❗ Opened issue [#4](https://github.com/mertbozkir/DVC.jl/issues/4) in [mertbozkir/DVC.jl](https://github.com/mertbozkir/DVC.jl)
-4. ❗ Opened issue [#3](https://github.com/mertbozkir/DVC.jl/issues/3) in [mertbozkir/DVC.jl](https://github.com/mertbozkir/DVC.jl)
+1. 🎉 Merged PR [#1](https://github.com/mertbozkir/dstack-examples/pull/1) in [mertbozkir/dstack-examples](https://github.com/mertbozkir/dstack-examples)
+2. 💪 Opened PR [#1](https://github.com/mertbozkir/dstack-examples/pull/1) in [mertbozkir/dstack-examples](https://github.com/mertbozkir/dstack-examples)
+3. 💪 Opened PR [#6](https://github.com/dstackai/dstack-examples/pull/6) in [dstackai/dstack-examples](https://github.com/dstackai/dstack-examples)
+4. 🗣 Commented on [#76](https://github.com/rocktimsaikia/anime-chan/issues/76) in [rocktimsaikia/anime-chan](https://github.com/rocktimsaikia/anime-chan)
 5. ❗ Opened issue [#2](https://github.com/mertbozkir/DVC.jl/issues/2) in [mertbozkir/DVC.jl](https://github.com/mertbozkir/DVC.jl)
 <!--END_SECTION:activity-->
 
