@@ -32,11 +32,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/mertbozkir/dstack-examples/pull/1) in [mertbozkir/dstack-examples](https://github.com/mertbozkir/dstack-examples)
-2. 💪 Opened PR [#1](https://github.com/mertbozkir/dstack-examples/pull/1) in [mertbozkir/dstack-examples](https://github.com/mertbozkir/dstack-examples)
-3. 💪 Opened PR [#6](https://github.com/dstackai/dstack-examples/pull/6) in [dstackai/dstack-examples](https://github.com/dstackai/dstack-examples)
-4. 🗣 Commented on [#76](https://github.com/rocktimsaikia/anime-chan/issues/76) in [rocktimsaikia/anime-chan](https://github.com/rocktimsaikia/anime-chan)
-5. ❗ Opened issue [#2](https://github.com/mertbozkir/DVC.jl/issues/2) in [mertbozkir/DVC.jl](https://github.com/mertbozkir/DVC.jl)
+1. 🗣 Commented on [#6](https://github.com/dstackai/dstack-examples/issues/6) in [dstackai/dstack-examples](https://github.com/dstackai/dstack-examples)
+2. 🗣 Commented on [#135](https://github.com/dstackai/dstack/issues/135) in [dstackai/dstack](https://github.com/dstackai/dstack)
+3. 🎉 Merged PR [#1](https://github.com/mertbozkir/dstack-examples/pull/1) in [mertbozkir/dstack-examples](https://github.com/mertbozkir/dstack-examples)
+4. 💪 Opened PR [#1](https://github.com/mertbozkir/dstack-examples/pull/1) in [mertbozkir/dstack-examples](https://github.com/mertbozkir/dstack-examples)
+5. 💪 Opened PR [#6](https://github.com/dstackai/dstack-examples/pull/6) in [dstackai/dstack-examples](https://github.com/dstackai/dstack-examples)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
