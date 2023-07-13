@@ -32,8 +32,8 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/dstackai/dstack-examples/issues/6) in [dstackai/dstack-examples](https://github.com/dstackai/dstack-examples)
-2. 🗣 Commented on [#135](https://github.com/dstackai/dstack/issues/135) in [dstackai/dstack](https://github.com/dstackai/dstack)
+1. 🗣 Commented on [#6](https://github.com/dstackai/dstack-examples/pull/6#issuecomment-1609263035) in [dstackai/dstack-examples](https://github.com/dstackai/dstack-examples)
+2. 🗣 Commented on [#135](https://github.com/dstackai/dstack/issues/135#issuecomment-1609261206) in [dstackai/dstack](https://github.com/dstackai/dstack)
 3. 🎉 Merged PR [#1](https://github.com/mertbozkir/dstack-examples/pull/1) in [mertbozkir/dstack-examples](https://github.com/mertbozkir/dstack-examples)
 4. 💪 Opened PR [#1](https://github.com/mertbozkir/dstack-examples/pull/1) in [mertbozkir/dstack-examples](https://github.com/mertbozkir/dstack-examples)
 5. 💪 Opened PR [#6](https://github.com/dstackai/dstack-examples/pull/6) in [dstackai/dstack-examples](https://github.com/dstackai/dstack-examples)
