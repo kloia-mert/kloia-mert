@@ -1,11 +1,11 @@
 <img src="./Mert.svg"></img>  
 
-<h2 align="center">A Passionate Future Machine Learning Engineer from Turkey</h2>
+<h2 align="center">A Passionate Machine Learning Engineer from Turkey</h2>
 
 ## I'm a Self-Taught, Contributor, Developer and Researcher!!
 
 - 🔭 Self-Learning right now. I'm documenting my journey on social...
-- 🧙‍♂️ I'm Community Coordinator at [@Iterative](https://iterative.ai/), which is an MLOps company. 
+- 🧙‍♂️ I'm Business Analyst Intern at [@Bosch Turkey](https://www.linkedin.com/company/boschturkey) !
 - 🎯 I’m currently learning Julia language and MLOps
 - 👯 Fun fact: I love to dance(salsa, bachata) and meet new people
 - 🥅 2022 Goals: Contribute more to Open Source and Communities below;
@@ -22,6 +22,7 @@
 <!---* [MIT-Stanford based Self-Taught-Degree](https://github.com/mertbozkir/self-taught-degree)📌 -->
  
 <!---* * [👊 Project D: Riot Games Data Science](https://github.com/mertbozkir/Riot-Games-Data-Science) -->
+* [open-source-chat: Documentation Chatbot](https://github.com/mertbozkir/open-source-chat)
 * [RFM Customer Segmentation❤️‍🔥Streamlit](https://github.com/mertbozkir/RFM_Customer_Segmentation_Streamlit) 
 * [PresentX: GPT-3 Based Latex Code Presentation Maker](https://github.com/mertbozkir/PresentX)  🪐
 * [Home-Credit-Default-Risk Analysis with GBMs](https://github.com/mertbozkir/Home-Credit-Default-Risk) 🧩
