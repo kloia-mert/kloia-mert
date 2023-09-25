@@ -33,11 +33,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#415](https://github.com/iterative/dvclive/issues/415#issuecomment-1732430502) in [iterative/dvclive](https://github.com/iterative/dvclive)
-2. 🗣 Commented on [#715](https://github.com/SuperDuperDB/superduperdb/issues/715#issuecomment-1732113934) in [SuperDuperDB/superduperdb](https://github.com/SuperDuperDB/superduperdb)
-3. 🗣 Commented on [#6](https://github.com/dstackai/dstack-examples/pull/6#issuecomment-1609263035) in [dstackai/dstack-examples](https://github.com/dstackai/dstack-examples)
-4. 🗣 Commented on [#135](https://github.com/dstackai/dstack/issues/135#issuecomment-1609261206) in [dstackai/dstack](https://github.com/dstackai/dstack)
-5. 🎉 Merged PR [#1](https://github.com/mertbozkir/dstack-examples/pull/1) in [mertbozkir/dstack-examples](https://github.com/mertbozkir/dstack-examples)
+1. 🗣 Commented on [#42](https://github.com/NevronAI/MetisFL/issues/42#issuecomment-1733518812) in [NevronAI/MetisFL](https://github.com/NevronAI/MetisFL)
+2. 🗣 Commented on [#40](https://github.com/NevronAI/MetisFL/issues/40#issuecomment-1733511293) in [NevronAI/MetisFL](https://github.com/NevronAI/MetisFL)
+3. 🗣 Commented on [#415](https://github.com/iterative/dvclive/issues/415#issuecomment-1732430502) in [iterative/dvclive](https://github.com/iterative/dvclive)
+4. 🗣 Commented on [#715](https://github.com/SuperDuperDB/superduperdb/issues/715#issuecomment-1732113934) in [SuperDuperDB/superduperdb](https://github.com/SuperDuperDB/superduperdb)
+5. 🗣 Commented on [#6](https://github.com/dstackai/dstack-examples/pull/6#issuecomment-1609263035) in [dstackai/dstack-examples](https://github.com/dstackai/dstack-examples)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
