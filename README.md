@@ -5,8 +5,8 @@
 ## I'm a Self-Taught, Contributor, Developer and Researcher!!
 
 - 🔭 Self-Learning right now. I'm documenting my journey on social...
-- 🧙‍♂️ I'm LLM Maker at [@AI Makerspace](https://www.linkedin.com/company/ai-maker-space/) !
-- 🎯 I’m currently learning LLMs and LLMOps
+- 🧙‍♂️ I'm an LLM Maker at [@AI Makerspace](https://www.linkedin.com/company/ai-maker-space/) !
+- 🎯 I’m currently learning LLMs and LLMOps, and sharpening my DevRel skills!
 - 👯 Fun fact: I love to dance(salsa, bachata) and meet new people
 - 🥅 2022 Goals: Contribute more to Open Source and Communities below;
 
