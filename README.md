@@ -5,13 +5,14 @@
 ## I'm a Self-Taught, Contributor, Developer and Researcher!!
 
 - 🔭 Self-Learning right now. I'm documenting my journey on social...
-- 🧙‍♂️ I'm Business Analyst Intern at [@Bosch Turkey](https://www.linkedin.com/company/boschturkey) !
-- 🎯 I’m currently learning Julia language and MLOps
+- 🧙‍♂️ I'm LLM Maker at [@AI Makerspace](https://www.linkedin.com/company/ai-maker-space/) !
+- 🎯 I’m currently learning LLMs and LLMOps
 - 👯 Fun fact: I love to dance(salsa, bachata) and meet new people
 - 🥅 2022 Goals: Contribute more to Open Source and Communities below;
 
 &emsp;&emsp;&emsp;&ensp;
-[<img width="30px" style="vertical-align: text-top;" src="https://static.iterative.ai/logo/dvc.svg"/>](https://dvc.org)  [<img width="30px" style="vertical-align: text-top;" src="https://avatars.githubusercontent.com/u/57668889?s=200&v=4"/>](https://dagshub.com) 
+[<img width="30px" style="vertical-align: text-top;" src="https://static.iterative.ai/logo/dvc.svg"/>](https://dvc.org)  
+[<img width="30px" style="vertical-align: text-top;" src="https://avatars.githubusercontent.com/u/57668889?s=200&v=4"/>](https://dagshub.com) 
 [<img width="30px" style="vertical-align: text-top;" src="https://avatars.githubusercontent.com/u/743164?s=280&v=4"/>](https://julialang.org) 
 [<img width="30px" style="vertical-align: text-top;" src="https://pydata.org/wp-content/uploads/2021/07/cropped-logo.png"/>](https://pydata.org/)
 
