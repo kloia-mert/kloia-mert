@@ -34,11 +34,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/PanoEvJ/Tiny_Agents/pull/26) in [PanoEvJ/Tiny_Agents](https://github.com/PanoEvJ/Tiny_Agents)
-2. 💪 Opened PR [#26](https://github.com/PanoEvJ/Tiny_Agents/pull/26) in [PanoEvJ/Tiny_Agents](https://github.com/PanoEvJ/Tiny_Agents)
-3. 🎉 Merged PR [#24](https://github.com/PanoEvJ/Tiny_Agents/pull/24) in [PanoEvJ/Tiny_Agents](https://github.com/PanoEvJ/Tiny_Agents)
-4. 💪 Opened PR [#24](https://github.com/PanoEvJ/Tiny_Agents/pull/24) in [PanoEvJ/Tiny_Agents](https://github.com/PanoEvJ/Tiny_Agents)
-5. 🗣 Commented on [#44](https://github.com/anarchy-ai/docs/issues/44#issuecomment-1834276259) in [anarchy-ai/docs](https://github.com/anarchy-ai/docs)
+1. 💪 Opened PR [#2](https://github.com/deshantm/open-source-ai-makerspace/pull/2) in [deshantm/open-source-ai-makerspace](https://github.com/deshantm/open-source-ai-makerspace)
+2. 🎉 Merged PR [#26](https://github.com/PanoEvJ/Tiny_Agents/pull/26) in [PanoEvJ/Tiny_Agents](https://github.com/PanoEvJ/Tiny_Agents)
+3. 💪 Opened PR [#26](https://github.com/PanoEvJ/Tiny_Agents/pull/26) in [PanoEvJ/Tiny_Agents](https://github.com/PanoEvJ/Tiny_Agents)
+4. 🎉 Merged PR [#24](https://github.com/PanoEvJ/Tiny_Agents/pull/24) in [PanoEvJ/Tiny_Agents](https://github.com/PanoEvJ/Tiny_Agents)
+5. 💪 Opened PR [#24](https://github.com/PanoEvJ/Tiny_Agents/pull/24) in [PanoEvJ/Tiny_Agents](https://github.com/PanoEvJ/Tiny_Agents)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
