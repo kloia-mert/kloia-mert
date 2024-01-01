@@ -5,16 +5,10 @@
 ## I'm a Self-Taught, Contributor, Developer and Researcher!!
 
 - 🔭 Self-Learning right now. I'm documenting my journey on social...
-- 🧙‍♂️ I'm an LLM Maker at [@AI Makerspace](https://www.linkedin.com/company/ai-maker-space/) !
+- 🧙‍♂️ I'm an LLM Developer Advocate at [@AI Makerspace](https://www.linkedin.com/company/ai-maker-space/), and working as a Developer Advocate Contractor!
 - 🎯 I’m currently learning LLMs and LLMOps, and sharpening my DevRel skills!
 - 👯 Fun fact: I love to dance(salsa, bachata) and meet new people
-- 🥅 2022 Goals: Contribute more to Open Source and Communities below;
-
-&emsp;&emsp;&emsp;&ensp;
-[<img width="30px" style="vertical-align: text-top;" src="https://static.iterative.ai/logo/dvc.svg"/>](https://dvc.org)  
-[<img width="30px" style="vertical-align: text-top;" src="https://avatars.githubusercontent.com/u/57668889?s=200&v=4"/>](https://dagshub.com) 
-[<img width="30px" style="vertical-align: text-top;" src="https://avatars.githubusercontent.com/u/743164?s=280&v=4"/>](https://julialang.org) 
-[<img width="30px" style="vertical-align: text-top;" src="https://pydata.org/wp-content/uploads/2021/07/cropped-logo.png"/>](https://pydata.org/)
+- 🥅 2024 Goals: One commit per day! 
 
  
 
@@ -23,6 +17,8 @@
 <!---* [MIT-Stanford based Self-Taught-Degree](https://github.com/mertbozkir/self-taught-degree)📌 -->
  
 <!---* * [👊 Project D: Riot Games Data Science](https://github.com/mertbozkir/Riot-Games-Data-Science) -->
+* [Multi-Agent Problem Solver System: Tiny Agents](https://github.com/PanoEvJ/Tiny_Agents/)
+* [LLM Agent Swarm!💥](https://github.com/petterle-endeavors/llm-cdk-app-agent)
 * [open-source-chat: Documentation Chatbot](https://github.com/mertbozkir/open-source-chat)
 * [RFM Customer Segmentation❤️‍🔥Streamlit](https://github.com/mertbozkir/RFM_Customer_Segmentation_Streamlit) 
 * [PresentX: GPT-3 Based Latex Code Presentation Maker](https://github.com/mertbozkir/PresentX)  🪐
