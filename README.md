@@ -30,11 +30,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#34](https://github.com/PanoEvJ/Tiny_Agents/issues/34) in [PanoEvJ/Tiny_Agents](https://github.com/PanoEvJ/Tiny_Agents)
-2. ❗ Opened issue [#33](https://github.com/PanoEvJ/Tiny_Agents/issues/33) in [PanoEvJ/Tiny_Agents](https://github.com/PanoEvJ/Tiny_Agents)
-3. ❗ Opened issue [#32](https://github.com/PanoEvJ/Tiny_Agents/issues/32) in [PanoEvJ/Tiny_Agents](https://github.com/PanoEvJ/Tiny_Agents)
-4. ❗ Opened issue [#31](https://github.com/PanoEvJ/Tiny_Agents/issues/31) in [PanoEvJ/Tiny_Agents](https://github.com/PanoEvJ/Tiny_Agents)
-5. ❗ Opened issue [#30](https://github.com/PanoEvJ/Tiny_Agents/issues/30) in [PanoEvJ/Tiny_Agents](https://github.com/PanoEvJ/Tiny_Agents)
+1. 🗣 Commented on [#950](https://github.com/microsoft/autogen/issues/950#issuecomment-1874186205) in [microsoft/autogen](https://github.com/microsoft/autogen)
+2. 🗣 Commented on [#950](https://github.com/microsoft/autogen/issues/950#issuecomment-1874175905) in [microsoft/autogen](https://github.com/microsoft/autogen)
+3. ❗ Opened issue [#34](https://github.com/PanoEvJ/Tiny_Agents/issues/34) in [PanoEvJ/Tiny_Agents](https://github.com/PanoEvJ/Tiny_Agents)
+4. ❗ Opened issue [#33](https://github.com/PanoEvJ/Tiny_Agents/issues/33) in [PanoEvJ/Tiny_Agents](https://github.com/PanoEvJ/Tiny_Agents)
+5. ❗ Opened issue [#32](https://github.com/PanoEvJ/Tiny_Agents/issues/32) in [PanoEvJ/Tiny_Agents](https://github.com/PanoEvJ/Tiny_Agents)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
