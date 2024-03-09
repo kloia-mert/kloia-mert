@@ -30,11 +30,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/shilongjaycui/vscode-bentoml/pull/2) in [shilongjaycui/vscode-bentoml](https://github.com/shilongjaycui/vscode-bentoml)
-2. 🗣 Commented on [#950](https://github.com/microsoft/autogen/issues/950#issuecomment-1874186205) in [microsoft/autogen](https://github.com/microsoft/autogen)
-3. 🗣 Commented on [#950](https://github.com/microsoft/autogen/issues/950#issuecomment-1874175905) in [microsoft/autogen](https://github.com/microsoft/autogen)
-4. ❗ Opened issue [#34](https://github.com/PanoEvJ/Tiny_Agents/issues/34) in [PanoEvJ/Tiny_Agents](https://github.com/PanoEvJ/Tiny_Agents)
-5. ❗ Opened issue [#33](https://github.com/PanoEvJ/Tiny_Agents/issues/33) in [PanoEvJ/Tiny_Agents](https://github.com/PanoEvJ/Tiny_Agents)
+1. 💪 Opened PR [#12](https://github.com/mlops-club/vscode-clearml-session-manager/pull/12) in [mlops-club/vscode-clearml-session-manager](https://github.com/mlops-club/vscode-clearml-session-manager)
+2. 💪 Opened PR [#2](https://github.com/shilongjaycui/vscode-bentoml/pull/2) in [shilongjaycui/vscode-bentoml](https://github.com/shilongjaycui/vscode-bentoml)
+3. 🗣 Commented on [#950](https://github.com/microsoft/autogen/issues/950#issuecomment-1874186205) in [microsoft/autogen](https://github.com/microsoft/autogen)
+4. 🗣 Commented on [#950](https://github.com/microsoft/autogen/issues/950#issuecomment-1874175905) in [microsoft/autogen](https://github.com/microsoft/autogen)
+5. ❗ Opened issue [#34](https://github.com/PanoEvJ/Tiny_Agents/issues/34) in [PanoEvJ/Tiny_Agents](https://github.com/PanoEvJ/Tiny_Agents)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
