@@ -30,11 +30,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#12](https://github.com/mlops-club/vscode-clearml-session-manager/pull/12) in [mlops-club/vscode-clearml-session-manager](https://github.com/mlops-club/vscode-clearml-session-manager)
-2. 💪 Opened PR [#1](https://github.com/mlops-club/vscode-bentoml/pull/1) in [mlops-club/vscode-bentoml](https://github.com/mlops-club/vscode-bentoml)
-3. 💪 Opened PR [#12](https://github.com/mlops-club/vscode-clearml-session-manager/pull/12) in [mlops-club/vscode-clearml-session-manager](https://github.com/mlops-club/vscode-clearml-session-manager)
-4. 💪 Opened PR [#2](https://github.com/shilongjaycui/vscode-bentoml/pull/2) in [shilongjaycui/vscode-bentoml](https://github.com/shilongjaycui/vscode-bentoml)
-5. 🗣 Commented on [#950](https://github.com/microsoft/autogen/issues/950#issuecomment-1874186205) in [microsoft/autogen](https://github.com/microsoft/autogen)
+1. 🎉 Merged PR [#3](https://github.com/mlops-club/vscode-bentoml/pull/3) in [mlops-club/vscode-bentoml](https://github.com/mlops-club/vscode-bentoml)
+2. 🗣 Commented on [#3](https://github.com/mlops-club/vscode-bentoml/pull/3#issuecomment-1994573284) in [mlops-club/vscode-bentoml](https://github.com/mlops-club/vscode-bentoml)
+3. 💪 Opened PR [#3](https://github.com/mlops-club/vscode-bentoml/pull/3) in [mlops-club/vscode-bentoml](https://github.com/mlops-club/vscode-bentoml)
+4. ❌ Closed PR [#12](https://github.com/mlops-club/vscode-clearml-session-manager/pull/12) in [mlops-club/vscode-clearml-session-manager](https://github.com/mlops-club/vscode-clearml-session-manager)
+5. 💪 Opened PR [#1](https://github.com/mlops-club/vscode-bentoml/pull/1) in [mlops-club/vscode-bentoml](https://github.com/mlops-club/vscode-bentoml)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
