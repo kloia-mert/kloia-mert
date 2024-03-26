@@ -30,11 +30,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#611](https://github.com/sdras/awesome-actions/pull/611) in [sdras/awesome-actions](https://github.com/sdras/awesome-actions)
-2. ❌ Closed PR [#378](https://github.com/viatsko/awesome-vscode/pull/378) in [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode)
-3. ❌ Closed PR [#2121](https://github.com/vinta/awesome-python/pull/2121) in [vinta/awesome-python](https://github.com/vinta/awesome-python)
-4. ❌ Closed PR [#34](https://github.com/iterative/course-ds-base/pull/34) in [iterative/course-ds-base](https://github.com/iterative/course-ds-base)
-5. ❌ Closed PR [#1203](https://github.com/flyteorg/flytesnacks/pull/1203) in [flyteorg/flytesnacks](https://github.com/flyteorg/flytesnacks)
+1. ❌ Closed PR [#12](https://github.com/ahkarami/Deep-Learning-in-Production/pull/12) in [ahkarami/Deep-Learning-in-Production](https://github.com/ahkarami/Deep-Learning-in-Production)
+2. ❌ Closed PR [#611](https://github.com/sdras/awesome-actions/pull/611) in [sdras/awesome-actions](https://github.com/sdras/awesome-actions)
+3. ❌ Closed PR [#378](https://github.com/viatsko/awesome-vscode/pull/378) in [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode)
+4. ❌ Closed PR [#2121](https://github.com/vinta/awesome-python/pull/2121) in [vinta/awesome-python](https://github.com/vinta/awesome-python)
+5. ❌ Closed PR [#34](https://github.com/iterative/course-ds-base/pull/34) in [iterative/course-ds-base](https://github.com/iterative/course-ds-base)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
