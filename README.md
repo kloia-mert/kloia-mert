@@ -30,11 +30,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/mlops-club/vscode-bentoml/pull/4) in [mlops-club/vscode-bentoml](https://github.com/mlops-club/vscode-bentoml)
-2. 🎉 Merged PR [#3](https://github.com/mlops-club/vscode-bentoml/pull/3) in [mlops-club/vscode-bentoml](https://github.com/mlops-club/vscode-bentoml)
-3. 🗣 Commented on [#3](https://github.com/mlops-club/vscode-bentoml/pull/3#issuecomment-1994573284) in [mlops-club/vscode-bentoml](https://github.com/mlops-club/vscode-bentoml)
-4. 💪 Opened PR [#3](https://github.com/mlops-club/vscode-bentoml/pull/3) in [mlops-club/vscode-bentoml](https://github.com/mlops-club/vscode-bentoml)
-5. ❌ Closed PR [#12](https://github.com/mlops-club/vscode-clearml-session-manager/pull/12) in [mlops-club/vscode-clearml-session-manager](https://github.com/mlops-club/vscode-clearml-session-manager)
+1. ❌ Closed PR [#611](https://github.com/sdras/awesome-actions/pull/611) in [sdras/awesome-actions](https://github.com/sdras/awesome-actions)
+2. ❌ Closed PR [#378](https://github.com/viatsko/awesome-vscode/pull/378) in [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode)
+3. ❌ Closed PR [#2121](https://github.com/vinta/awesome-python/pull/2121) in [vinta/awesome-python](https://github.com/vinta/awesome-python)
+4. ❌ Closed PR [#34](https://github.com/iterative/course-ds-base/pull/34) in [iterative/course-ds-base](https://github.com/iterative/course-ds-base)
+5. ❌ Closed PR [#1203](https://github.com/flyteorg/flytesnacks/pull/1203) in [flyteorg/flytesnacks](https://github.com/flyteorg/flytesnacks)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
