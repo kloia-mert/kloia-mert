@@ -30,11 +30,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/meta-llama/llama3/issues/32#issuecomment-2065109089) in [meta-llama/llama3](https://github.com/meta-llama/llama3)
-2. ❌ Closed PR [#2](https://github.com/deshantm/open-source-ai-makerspace/pull/2) in [deshantm/open-source-ai-makerspace](https://github.com/deshantm/open-source-ai-makerspace)
-3. ❌ Closed PR [#12](https://github.com/ahkarami/Deep-Learning-in-Production/pull/12) in [ahkarami/Deep-Learning-in-Production](https://github.com/ahkarami/Deep-Learning-in-Production)
-4. ❌ Closed PR [#611](https://github.com/sdras/awesome-actions/pull/611) in [sdras/awesome-actions](https://github.com/sdras/awesome-actions)
-5. ❌ Closed PR [#378](https://github.com/viatsko/awesome-vscode/pull/378) in [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode)
+1. 🗣 Commented on [#3910](https://github.com/ollama/ollama/issues/3910#issuecomment-2080056210) in [ollama/ollama](https://github.com/ollama/ollama)
+2. 🗣 Commented on [#6868](https://github.com/ggerganov/llama.cpp/issues/6868#issuecomment-2080052573) in [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)
+3. 🗣 Commented on [#32](https://github.com/meta-llama/llama3/issues/32#issuecomment-2065109089) in [meta-llama/llama3](https://github.com/meta-llama/llama3)
+4. ❌ Closed PR [#2](https://github.com/deshantm/open-source-ai-makerspace/pull/2) in [deshantm/open-source-ai-makerspace](https://github.com/deshantm/open-source-ai-makerspace)
+5. ❌ Closed PR [#12](https://github.com/ahkarami/Deep-Learning-in-Production/pull/12) in [ahkarami/Deep-Learning-in-Production](https://github.com/ahkarami/Deep-Learning-in-Production)
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
