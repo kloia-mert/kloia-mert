@@ -5,8 +5,8 @@
 ## I'm a Self-Taught, Contributor, Developer and Researcher!!
 
 - 🔭 Self-Learning right now. I'm documenting my journey on social...
-- 🧙‍♂️ I'm an LLM Developer Advocate at [@AI Makerspace](https://www.linkedin.com/company/ai-maker-space/), and working as a Developer Advocate Contractor!
-- 🎯 I’m currently learning LLMs and LLMOps, and sharpening my DevRel skills!
+- 🧙‍♂️ I'm an Generative AI Engineer at [@kloia](http://kloia.com/)
+- 🎯 I’m currently learning ML Infrastructure, and sharpening my LLM skills!
 - 👯 Fun fact: I love to dance(salsa, bachata) and meet new people
 - 🥅 2024 Goals: One commit per day! 
 
