@@ -30,11 +30,7 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#512](https://github.com/Chainlit/chainlit/issues/512#issuecomment-2241227026) in [Chainlit/chainlit](https://github.com/Chainlit/chainlit)
-2. 🗣 Commented on [#219](https://github.com/Vaibhavs10/insanely-fast-whisper/issues/219#issuecomment-2135851667) in [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper)
-3. 🗣 Commented on [#225](https://github.com/Vaibhavs10/insanely-fast-whisper/issues/225#issuecomment-2135847299) in [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper)
-4. 🗣 Commented on [#3910](https://github.com/ollama/ollama/issues/3910#issuecomment-2080056210) in [ollama/ollama](https://github.com/ollama/ollama)
-5. 🗣 Commented on [#6868](https://github.com/ggerganov/llama.cpp/issues/6868#issuecomment-2080052573) in [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)
+
 <!--END_SECTION:activity-->
 
 ## 📬 Connect with me:
